@@ -24,12 +24,12 @@ export const LessonContent = () => {
         <CardContent>
           <LessonTabs />
         </CardContent>
-        <CardFooter >
+        <CardFooter>
           <LessonFooter />
         </CardFooter>
       </Card>
 
-      <div className="flex justify-between">
+      <div className="md:flex md:flex-row md:justify-between flex flex-col justify-center items-center space-y-2 md:space-y-0 md:space-x-2">
         <Link to="/courses">
           <Button variant="ghost">
             <ArrowLeft className="h-4 w-4 mr-2" /> {t("courses.backToAll")}

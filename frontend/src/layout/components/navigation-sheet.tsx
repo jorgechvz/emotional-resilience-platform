@@ -7,7 +7,7 @@ import {
   SheetTitle,
   SheetDescription,
 } from "@/components/ui/sheet";
-import { Menu, LogOut, User } from "lucide-react"; 
+import { Menu, LogOut } from "lucide-react"; 
 import { Logo } from "./logo";
 import { NavMenu } from "./nav-menu";
 import { VisuallyHidden } from "@radix-ui/react-visually-hidden";
@@ -95,19 +95,13 @@ export const NavigationSheet = () => {
           <NavMenu orientation="vertical" className="w-full" />
         </div>
 
-        <div className="flex flex-col gap-3 mt-auto pt-6 border-t">
+        <div className="flex flex-col gap-3 mt-auto pt-6 border-t mb-4">
           {isLoading ? (
             <div className="flex justify-center items-center h-10">
               <div className="w-5 h-5 border-2 border-primary border-t-transparent rounded-full animate-spin"></div>
             </div>
           ) : isAuthenticated ? (
             <>
-              <Link to="/dashboard/profile" className="w-full">
-                <Button variant="outline" className="w-full justify-start">
-                  <User className="mr-2 h-4 w-4" />
-                  {t("nav.profile.profile")}
-                </Button>
-              </Link>
               <Button variant="outline" className="w-full justify-start text-destructive hover:bg-destructive/10 hover:text-destructive" onClick={handleLogout} disabled={signOut.isPending}>
                 <LogOut className="mr-2 h-4 w-4" />
                 {signOut.isPending ? t("nav.profile.signingOut") : t("nav.profile.signOut")}

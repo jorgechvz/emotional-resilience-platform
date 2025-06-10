@@ -37,7 +37,7 @@ export const LessonFooter = () => {
   };
 
   return (
-    <div className="flex w-full justify-between items-center border-t pt-6">
+    <div className="flex w-full justify-between items-center border-t pt-6 space-x-1 md:gap-x-2">
       <div>
         <Button
           variant="outline"
