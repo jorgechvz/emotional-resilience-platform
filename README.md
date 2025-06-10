@@ -19,7 +19,7 @@ This platform helps users strengthen their emotional and spiritual resilience th
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jorgechvz/emotional-resilience-platform.git
    ```
 2. Install dependencies in both projects:
    ```bash
