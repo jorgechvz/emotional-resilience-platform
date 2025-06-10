@@ -1,0 +1,790 @@
+{
+  "site": {
+    "name": "Resilire",
+    "tagline": "Strengthening Spirits and Hearts"
+  },
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "findGroups": "Find Groups",
+    "stories": "Stories",
+    "about": "About",
+    "login": "Sign In",
+    "profile": {
+      "dashboard": "Dashboard",
+      "profile": "My Profile",
+      "courses": "My Courses",
+      "progress": "My Progress",
+      "notifications": "Notifications",
+      "settings": "Settings",
+      "signOut": "Sign Out",
+      "signingOut": "Signing out..."
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Your path to emotional resilience starts here",
+      "title": "Grow Stronger",
+      "title-2": "Together",
+      "description": "Feel blessed and empowered as you grow in faith and resilience. Find Gospel wisdom, caring groups, and turn challenges into strength.",
+      "startJourney": "Begin Your Journey",
+      "findSupport": "Locate Your Group",
+      "element1": {
+        "title": "Faith-Based Lessons",
+        "description": "Learn emotional resilience through inspired courses "
+      },
+      "element2": {
+        "title": "Faith-Based Community",
+        "description": "Connect with others who share your values and experiences"
+      },
+      "element3": {
+        "title": "Personal Growth",
+        "description": "Share your story and inspire others on their journey"
+      }
+    },
+    "features": {
+      "badge": "Why Choose Us",
+      "title": "Built for Your",
+      "titleHighlight": "Emotional Journey",
+      "description": "Our platform combines science-backed techniques with community support to help you build lasting resilience.",
+      "feature1": {
+        "title": "Expert-Designed Courses",
+        "description": "Learn from psychologists and resilience experts through bite-sized, actionable lessons.",
+        "cta": "Explore courses"
+      },
+      "feature2": {
+        "title": "Community Support",
+        "description": "Connect with others on similar journeys through local groups and online communities.",
+        "cta": "Find your tribe"
+      },
+      "feature3": {
+        "title": "Personal Growth",
+        "description": "Track your progress and celebrate milestones on your journey to emotional resilience.",
+        "cta": "Start growing"
+      }
+    },
+    "howItWorks": {
+      "badge": "How It Works",
+      "title": "Your Journey in",
+      "titleHighlight": "3 Simple Steps",
+      "subtitle": "A Christ-centered approach to build resilience, together.",
+      "step1": {
+        "title": "Study Official Lessons",
+        "description": "Work through short, inspired courses from The Church of Jesus Christ of Latter-day Saints that teach emotional resilience rooted in Gospel principles.",
+        "cta": "View Courses"
+      },
+      "step2": {
+        "title": "Connect With Others",
+        "description": "Find a local ward or branch, or join an online group, to share experiences, uplift one another, and grow in faith together.",
+        "cta": "Find Groups"
+      },
+      "step3": {
+        "title": "Share Your History",
+        "description": "Encourage others by sharing how your faith and the community have helped you overcome challenges. Anonymous or open—your story matters.",
+        "cta": "Read & Share"
+      }
+    },
+    "transformationStories": {
+      "title": "Stories of Resilience",
+      "title-2": "Real Stories, Real",
+      "title-3": "Transformation",
+      "subtitle": "Hear from fellow members and friends how Gospel principles strengthened them in hard times.",
+      "testimonial1": {
+        "quote": "Losing my job was heartbreaking. Studying the LDS resilience lessons gave me hope and practical tools to manage my anxiety. My faith has never been stronger.",
+        "author": "Michael J.",
+        "category": "Career Transition"
+      },
+      "testimonial2": {
+        "quote": "During my divorce, the ward support I found here became my rock. Knowing others prayed for me and shared their stories lifted my spirit daily.",
+        "author": "Sarah R.",
+        "category": "Life Transition"
+      },
+      "testimonial3": {
+        "quote": "I struggled with anxiety for years. These courses, paired with my testimonies of the Savior’s love, helped me find lasting peace and confidence.",
+        "author": "David T.",
+        "category": "Anxiety Management"
+      }
+    },
+    "featuredCourses": {
+      "title": "Featured LDS Courses",
+      "subtitle": "Inspired lessons from the Church to build your emotional resilience.",
+      "course1": {
+        "title": "Foundations of Spiritual Resilience",
+        "description": "An official Church course on Gospel principles that strengthen your heart and mind.",
+        "duration": "4 lessons • 45 min",
+        "cta": "Start"
+      },
+      "course2": {
+        "title": "Embracing Change with Faith",
+        "description": "Learn LDS teachings and practical strategies to navigate life’s transitions with confidence in the Lord.",
+        "duration": "5 lessons • 60 min",
+        "cta": "Start"
+      },
+      "course3": {
+        "title": "Building a Supportive Ward Network",
+        "description": "Official guidance on creating Christ-centered connections that uplift and sustain you.",
+        "duration": "3 lessons • 30 min",
+        "cta": "Start"
+      },
+      "exploreCta": "Explore All Courses"
+    },
+    "communityStories": {
+      "title": "Community Testimonies",
+      "subtitle": "True accounts of faith, hope, and resilience from our members and friends.",
+      "story1": {
+        "title": "Strength After Loss",
+        "tag": "Loss",
+        "posted": "Posted May 23, 2025",
+        "comments": "12 comments",
+        "excerpt": "When I lost my job, I leaned on the Gospel-based courses and ward prayers. I found peace and a renewed sense of purpose...",
+        "helpful": "45 people found this helpful",
+        "cta": "Read More"
+      },
+      "story2": {
+        "title": "Small Steps in Faith",
+        "tag": "Anxiety",
+        "posted": "Posted May 19, 2025",
+        "comments": "8 comments",
+        "excerpt": "I took one inspired step each day, applying principles from the Foundations course and relying on prayer. Over time, my anxiety lessened significantly...",
+        "helpful": "32 people found this helpful",
+        "cta": "Read More"
+      },
+      "readAllCta": "Read All Stories"
+    },
+    "cta": {
+      "title": "Join Us in Building Resilience",
+      "description": "Sign up for free to access official Church courses, connect with your ward, and share your story of faith.",
+      "createAccount": "Create Free Account",
+      "exploreCourses": "Explore Courses"
+    }
+  },
+  "footer": {
+    "links": {
+      "courses": "Courses",
+      "findGroups": "Find Groups",
+      "stories": "Stories",
+      "about": "About",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "copyright": "All rights reserved.",
+    "churchNotice": "Course content is provided by and is the intellectual property of The Church of Jesus Christ of Latter-day Saints.",
+    "educationalNotice": "Educational project for GESCI110: Sustaining Human Life - Brigham Young University-Idaho",
+    "platformBy": "Platform by"
+  },
+  "language": {
+    "en": "English",
+    "es": "Español",
+    "qu": "Runa Simi",
+    "ay": "Aymar Aru",
+    "selectLanguage": "Select Language",
+    "current": "Current"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated",
+    "introduction": {
+      "title": "Introduction",
+      "content": "We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our emotional resilience platform."
+    },
+    "educationalProject": {
+      "title": "Educational Project Information",
+      "content": "This platform is an educational project developed as part of the GESCI110: Sustaining Human Life course at Brigham Young University - Idaho (BYUI). This project is created for academic purposes and to demonstrate practical application of course concepts in emotional resilience and human wellbeing.",
+      "points": {
+        "course": "Course: GESCI110 - Sustaining Human Life",
+        "institution": "Institution: Brigham Young University - Idaho (BYUI)",
+        "purpose": "Purpose: Educational demonstration and learning project",
+        "academic": "This is an academic project and not a commercial platform"
+      }
+    },
+    "contentAttribution": {
+      "title": "Content Attribution and Source",
+      "content": "The educational content, courses, and materials provided on this platform are derived from and based upon the intellectual property of The Church of Jesus Christ of Latter-day Saints. Specifically:",
+      "point1": "All course content is sourced from official The Church of Jesus Christ of Latter-day Saints emotional resilience training materials",
+      "point2": "The Church retains all intellectual property rights to the original content",
+      "point3": "This platform serves as a delivery mechanism and does not claim ownership of the educational materials"
+    },
+    "informationCollected": {
+      "title": "Information We Collect",
+      "personal": {
+        "title": "Personal Information",
+        "content": "We may collect personal information such as your name, email address, and progress data to provide personalized experiences and track your learning journey."
+      },
+      "usage": {
+        "title": "Usage Data",
+        "content": "We collect information about how you interact with our platform, including pages visited, time spent, and course progress to improve our services."
+      }
+    },
+    "howWeUse": {
+      "title": "How We Use Your Information",
+      "point1": "To provide and maintain our services",
+      "point2": "To personalize your learning experience",
+      "point3": "To communicate with you about your progress and platform updates",
+      "point4": "To improve our platform and develop new features"
+    },
+    "dataSharing": {
+      "title": "Data Sharing and Third Parties",
+      "content": "We do not sell, trade, or rent your personal information to third parties. We may share aggregated, non-personally identifiable information for research and improvement purposes.",
+      "churchData": "Please note that while we use The Church of Jesus Christ of Latter-day Saints educational content, we do not share your personal data with The Church of Jesus Christ of Latter-day Saints unless explicitly required by law."
+    },
+    "yourRights": {
+      "title": "Your Rights",
+      "access": "Access your personal data",
+      "correct": "Correct inaccurate information",
+      "delete": "Request deletion of your data",
+      "portability": "Request a copy of your data"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this Privacy Policy or our data practices, please contact us at jorgechvzpon@gmail.com"
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated",
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "By accessing and using this emotional resilience platform, you accept and agree to be bound by the terms and provision of this agreement."
+    },
+    "educationalProject": {
+      "title": "Educational Project Disclaimer",
+      "content": "This platform is developed as an educational project for the GESCI110: Sustaining Human Life course at Brigham Young University - Idaho (BYUI).",
+      "academicPurpose": "Academic Purpose: This project serves as a practical demonstration of course concepts related to emotional resilience, human wellbeing, and community support systems.",
+      "limitations": "Educational Limitations: As an academic project, this platform may have limited functionality and is primarily intended for demonstration and learning purposes rather than as a fully operational commercial service.",
+      "byuiInfo": "Course Information: GESCI110 - Sustaining Human Life, Brigham Young University - Idaho"
+    },
+    "intellectualProperty": {
+      "title": "Intellectual Property and Content Attribution",
+      "churchContent": "The educational content, courses, materials, and curriculum available on this platform are derived from and based upon the intellectual property of The Church of Jesus Christ of Latter-day Saints. The Church retains all rights, title, and interest in and to the original content.",
+      "restrictions": {
+        "title": "Content Use Restrictions",
+        "commercial": "You may not use the educational content for commercial purposes",
+        "modification": "You may not modify, adapt, or create derivative works from the content",
+        "redistribution": "You may not redistribute or republish the content outside this platform",
+        "attribution": "Proper attribution to The Church of Jesus Christ of Latter-day Saints must be maintained"
+      },
+      "platformCode": "The platform code and user interface elements are developed independently and are not affiliated with or endorsed by The Church of Jesus Christ of Latter-day Saints."
+    },
+    "useOfServices": {
+      "title": "Use of Services",
+      "content": "This platform is intended for personal emotional resilience education and self-improvement. You agree to use the services responsibly and in accordance with all applicable laws.",
+      "prohibited": {
+        "title": "Prohibited Uses",
+        "illegal": "Any illegal or unauthorized purpose",
+        "harmful": "Transmitting harmful, threatening, or offensive content",
+        "impersonate": "Impersonating others or providing false information",
+        "interfere": "Interfering with the platform's functionality or security"
+      }
+    },
+    "userContent": {
+      "title": "User-Generated Content",
+      "responsibility": "You are responsible for any content you post or share on the platform. You warrant that you have the right to share such content.",
+      "license": "By posting content, you grant us a non-exclusive license to use, modify, and display your content in connection with operating the platform."
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "content": "The information and content provided on this platform are for educational purposes only and should not be considered as professional medical or psychological advice. Always consult with qualified professionals for specific mental health concerns.",
+      "churchEndorsement": "This platform is not officially endorsed by or affiliated with The Church of Jesus Christ of Latter-day Saints, despite using their educational materials as source content."
+    },
+    "limitation": {
+      "title": "Limitation of Liability",
+      "content": "We shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of the platform or any content therein."
+    },
+    "termination": {
+      "title": "Termination",
+      "content": "We reserve the right to terminate or suspend your access to the platform at any time, without prior notice, for conduct that we believe violates these Terms of Service."
+    },
+    "changes": {
+      "title": "Changes to Terms",
+      "content": "We reserve the right to modify these terms at any time. Changes will be effective when posted on the platform. Your continued use constitutes acceptance of modified terms."
+    },
+    "contact": {
+      "title": "Contact Information",
+      "content": "For questions about these Terms of Service, please contact us at jorgechvzpon@gmail.com"
+    }
+  },
+  "auth": {
+    "login": {
+      "registrationSuccess": {
+        "title": "Registration Successful!",
+        "message": "Your account has been created. You can now sign in with your credentials."
+      },
+      "welcome": {
+        "title": "Welcome Back to Your",
+        "subtitle": "Resilience Journey",
+        "description": "Continue building emotional strength and connecting with a community that understands your path to wellbeing."
+      },
+      "stats": {
+        "members": "Active Members",
+        "courses": "Expert Courses",
+        "success": "Success Rate"
+      },
+      "form": {
+        "title": "Sign In",
+        "description": "Dive back into your resilience journey with us",
+        "email": {
+          "label": "Email Address",
+          "placeholder": "Enter your email",
+          "required": "Email is required",
+          "invalid": "Invalid email address"
+        },
+        "password": {
+          "label": "Password",
+          "placeholder": "Enter your password",
+          "required": "Password is required",
+          "minLength": "Password must be at least 6 characters"
+        },
+        "rememberMe": "Remember me",
+        "forgotPassword": "Forgot password?",
+        "signIn": "Sign In",
+        "signingIn": "Signing in..."
+      },
+      "newToResilire": "New to Resilire?",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Create your free account",
+      "errors": {
+        "unexpected": "An unexpected error occurred. Please try again.",
+        "failed": "Login failed.",
+        "credentials": "Login failed. Please check your credentials."
+      },
+      "success": {
+        "title": "Welcome back!",
+        "message": "You've successfully signed in to your account."
+      }
+    },
+    "register": {
+      "welcome": {
+        "title": "Join our community",
+        "subtitle": "Begin your journey",
+        "description": "Create an account to track your emotional resilience journey, connect with others, and access personalized resources."
+      },
+      "form": {
+        "title": "Create Account",
+        "description": "Fill in your details to get started",
+        "email": {
+          "label": "Email",
+          "placeholder": "Enter your email",
+          "required": "Email is required",
+          "invalid": "Please enter a valid email"
+        },
+        "firstName": {
+          "label": "First Name",
+          "placeholder": "Enter your first name",
+          "required": "First name is required"
+        },
+        "lastName": {
+          "label": "Last Name",
+          "placeholder": "Enter your last name",
+          "required": "Last name is required"
+        },
+        "password": {
+          "label": "Password",
+          "placeholder": "Create a secure password",
+          "required": "Password is required",
+          "minLength": "Password must be at least 8 characters",
+          "pattern": "Password must include uppercase, lowercase, number and special character"
+        },
+        "confirmPassword": {
+          "label": "Confirm Password",
+          "placeholder": "Confirm your password",
+          "required": "Please confirm your password",
+          "match": "Passwords do not match"
+        },
+        "registering": "Creating account...",
+        "createAccount": "Create Account"
+      },
+      "alreadyRegistered": "Already registered?",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "errors": {
+        "unexpected": "An unexpected error occurred",
+        "failed": "Registration failed. Please try again.",
+        "emailTaken": "Email is already in use"
+      },
+      "success": {
+        "title": "Registration successful!",
+        "message": "You can now sign in with your credentials."
+      }
+    }
+  },
+  "courses": {
+    "title": "Emotional Resilience Courses",
+    "description": "Explore our courses designed to help you build emotional and spiritual resilience.",
+    "start": "Start course",
+    "continue": "Continue course",
+    "enrolled": "Enrolled",
+    "lessons": "lessons",
+    "minutes": "minutes",
+    "noDescription": "No description available.",
+    "loading": "Loading course...",
+    "notFound": "Course not found",
+    "notFoundDesc": "The course you are looking for doesn't exist or may have been moved.",
+    "browseAll": "Browse all courses",
+    "enrollmentRequired": "You need to enroll in this course to access the content.",
+    "enroll": "Enroll now",
+    "complete": "complete",
+    "lesson": "Lesson",
+    "previous": "Previous",
+    "next": "Next",
+    "tabs": {
+      "content": "Content",
+      "notes": "Notes",
+      "discussion": "Discussion"
+    },
+    "videoContent": "Video content",
+    "videoPlaceholder": "The lesson video would be displayed here.",
+    "lessonContent": "Lesson content",
+    "contentPlaceholder": "The lesson content would be displayed here.",
+    "understanding": "Understanding",
+    "lessonExplores": "This lesson explores the key concepts of",
+    "andApplication": "and how they apply to your daily life. You'll learn practical strategies that you can implement immediately to build your emotional resilience.",
+    "keyTakeaways": "Key takeaways",
+    "takeaway1": "Understanding the fundamental principles",
+    "takeaway2": "Practical techniques you can apply in your daily life",
+    "takeaway3": "Common challenges and how to overcome them",
+    "takeaway4": "Building sustainable habits for long-term resilience",
+    "notesDesc": "Take notes as you go through the lesson. Your notes are private and will help you remember key points.",
+    "notesPlaceholder": "Write your notes here...",
+    "discussionDesc": "Join the discussion with other students. Share your insights and questions about this lesson.",
+    "discussionPlaceholder": "The discussion forum would be displayed here, allowing students to interact with each other.",
+    "previousLesson": "Previous lesson",
+    "nextLesson": "Next lesson",
+    "markComplete": "Mark as complete",
+    "backToAll": "Back to all courses",
+    "findGroups": "Find related support groups",
+    "noNotes": "No notes yet",
+    "createNote": "Create a note",
+    "noteTitle": "Note title",
+    "lastEdited": "Last edited",
+    "selectNote": "Select a note from the list or create a new one",
+    "myNotes": "My Notes",
+    "notes": "notes",
+    "lessonLabel": "Lesson",
+    "newNoteButton": "New Note",
+    "searchNotesPlaceholder": "Search notes...",
+    "noteTitlePlaceholder": "Note Title",
+    "noNotesYet": "No Notes Yet",
+    "noNotesDescription": "You haven't created any notes for this lesson yet. Click the button above to create your first one!",
+    "createFirstNoteButton": "Create Your First Note",
+    "newNote": "New Note",
+    "untitledNote": "Untitled Note",
+    "noteCreated": "Note created successfully",
+    "noteUpdated": "Note updated successfully",
+    "noteDeleted": "Note deleted successfully",
+    "errorCreatingNote": "Error creating note",
+    "errorUpdatingNote": "Error updating note",
+    "errorDeletingNote": "Error deleting note",
+    "errorMissingInfo": "Missing required information",
+    "errorMissingInfoOnDelete": "Missing information needed to delete note",
+    "noNotesFound": "No notes found",
+    "tryDifferentSearch": "Try a different search term or create a new note.",
+    "previousVideo": "Previous video",
+    "nextVideo": "Next video",
+    "videoCounter": "Video {{current}} of {{total}}",
+    "videoPlaylist": "Video Playlist"
+  },
+  "state": {
+    "enrollmentRequired": "Enrollment Required",
+    "enrollmentMessage": "Join this course to access all materials and track your progress throughout your learning journey.",
+    "accessMaterials": "Full Access",
+    "accessDescription": "Get complete access to all course materials",
+    "trackProgress": "Track Progress",
+    "progressDescription": "Monitor your learning journey",
+    "earnCertificate": "Earn Certificate",
+    "certificateDescription": "Complete the course to earn your certificate",
+    "enroll": "Enroll Now",
+    "enrolling": "Enrolling...",
+    "enrollSuccess": "Enrollment successful! You can now access the course materials.",
+    "enrollError": "Enrollment failed. Please try again later."
+  },
+  "common": {
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "updatedLabel": "Updated",
+    "deleteConfirmPrompt": "Are you sure you want to delete this note? This action cannot be undone.",
+    "loading_description": "Please wait while we load the content for you.",
+    "error": "Error",
+    "somethingWentWrong": "Oops! Something went wrong. Please try again later.",
+    "backToStories": "Back to Stories",
+    "characters": "characters"
+  },
+  "discussions": {
+    "loading": "Loading discussions...",
+    "error": "Error loading discussions",
+    "forumTitle": "Course Discussion Forum",
+    "forumDescription": "Connect with fellow learners, ask questions, and share insights about this lesson.",
+    "newThreadTitle": "Start a New Thread",
+    "newThreadDescription": "Ask a question, share an insight, or start a conversation about this lesson",
+    "threadTitleLabel": "Thread Title",
+    "threadTitlePlaceholder": "What would you like to discuss?",
+    "messageLabel": "Your Message",
+    "messagePlaceholder": "Share your thoughts, questions, or insights...",
+    "creating": "Creating...",
+    "createThread": "Create Thread",
+    "noRepliesYet": "No replies yet",
+    "reply": "Reply",
+    "replies": "replies",
+    "replyTo": "Reply to",
+    "replyPlaceholder": "Share your thoughts or answer...",
+    "posting": "Posting...",
+    "postReply": "Post Reply",
+    "forumGuidelines": "Forum Guidelines",
+    "guidelines": {
+      "respectful": "Be respectful and supportive of all learners",
+      "constructive": "Share constructive insights and ask thoughtful questions",
+      "relevant": "Keep discussions relevant to the course content",
+      "organized": "Use the reply feature to maintain organized conversations",
+      "report": "Report inappropriate content to help maintain a safe space"
+    },
+    "helpful": "Helpful",
+    "hideReplies": "Hide replies",
+    "view": "View",
+    "viewSingleAnswer": "reply",
+    "report": "Report",
+    "loadingReplies": "Loading replies...",
+    "errorLoadingReplies": "Error loading replies"
+  },
+  "groups": {
+    "pageTitle": {
+      "badge": "Find Your Community",
+      "title": "Support Groups Near You",
+      "subtitle": "Connect with local resilience groups in your neighborhood or join virtual sessions from anywhere. Find your tribe and grow stronger together.",
+      "disclaimer": "Note: The groups shown are fictitious and are for illustrative purposes only. Real-life groups will be added soon."
+    },
+    "search": {
+      "placeholder": "Search by location, group name, focus area, or facilitator...",
+      "filters": "Quick Filters",
+      "meetingType": "Meeting Type",
+      "focusArea": "Focus Area",
+      "selectFocusArea": "Select focus area"
+    },
+    "results": {
+      "groupsFound": "Group Found",
+      "groupsFound_plural": "Groups Found",
+      "listView": "List view",
+      "gridView": "Grid view",
+      "noGroups": "No groups found",
+      "tryAdjusting": "Try adjusting your search criteria or filters.",
+      "resetFilters": "Reset Filters"
+    },
+    "meetingTypes": {
+      "all": "All",
+      "inPerson": "In-Person",
+      "virtual": "Virtual"
+    },
+    "map": {
+      "loading": "Loading map...",
+      "locationNotSpecified": "Location not specified"
+    },
+    "card": {
+      "featured": "Featured Group",
+      "viewDetails": "View Details",
+      "participants": "participants",
+      "ledBy": "Led by"
+    },
+    "callToAction": {
+      "title": "Don't see a group near you?",
+      "description": "Starting a support group in your community is easier than you think. We provide resources, training, and ongoing support for community leaders.",
+      "startGroup": "Start a Group",
+      "leaderResources": "Leader Resources"
+    },
+    "details": {
+      "tabs": {
+        "details": "Details",
+        "schedule": "Schedule",
+        "reviews": "Reviews",
+        "similar": "Similar"
+      },
+      "aboutGroup": "About This Group",
+      "noDescription": "No description provided.",
+      "whatToExpect": "What to Expect",
+      "expectItems": {
+        "discussions": "Guided discussions on key resilience topics.",
+        "exercises": "Practical exercises and skill-building activities.",
+        "environment": "A supportive and confidential environment for sharing.",
+        "connections": "Opportunities to connect with peers facing similar challenges."
+      },
+      "focusAreas": "Group Focus Areas",
+      "noFocusAreas": "No specific focus areas listed.",
+      "meetingInfo": "Meeting Information",
+      "getDirections": "Get directions",
+      "schedule": "Schedule",
+      "participants": "Participants",
+      "spotsFilled": "of spots filled",
+      "facilitator": "Facilitator",
+      "registrationNote": "Registration is free and can be cancelled anytime. Limited spots available.",
+      "upcomingSessions": "Upcoming Sessions",
+      "sessionFull": "Session Full",
+      "addToCalendar": "Add to Calendar",
+      "noSessions": "No upcoming sessions scheduled at this time.",
+      "participantReviews": "Participant Reviews",
+      "writeReview": "Write a Review",
+      "basedOnReviews": "Based on reviews",
+      "noReviews": "No reviews yet for this group.",
+      "similarGroups": "Similar Groups You Might Like",
+      "noSimilarGroups": "No similar groups found at this time.",
+      "spots": "spots",
+      "contactFacilitator": "Contact Facilitator",
+      "cancelEnrollment": "Cancel Enrollment",
+      "cancelling": "Cancelling...",
+      "register": "Register for This Group",
+      "registering": "Registering..."
+    }
+  },
+  "blogs": {
+    "title": "Community stories",
+    "subtitle": "Read inspiring stories from our community members and share your own journey anonymously.",
+    "actions": {
+      "shareStory": "Share Your Story"
+    },
+    "search": {
+      "placeholder": "Search stories..."
+    },
+    "sort": {
+      "placeholder": "Sort by",
+      "newest": "Newest first",
+      "oldest": "Oldest first",
+      "popular": "Most popular"
+    },
+    "filter": {
+      "byTags": "Filter by tags",
+      "selectTags": "Select tags",
+      "clearFilters": "Clear filters"
+    },
+    "card": {
+      "posted": "Posted",
+      "readMore": "Read More"
+    },
+    "share": {
+      "action": "Share",
+      "copied": "Copied!",
+      "shareText": "Check out this story"
+    },
+    "emptyState": {
+      "title": "No stories found",
+      "description": "Try adjusting your filters or search terms",
+      "clearFilters": "Clear all filters"
+    },
+    "post": {
+      "notFound": {
+        "title": "Story Not Found",
+        "message": "The story you're looking for doesn't exist or has been moved.",
+        "viewAll": "View All Stories"
+      },
+      "backToAll": "Back to All Stories",
+      "postedBy": "Posted",
+      "author": "by",
+      "anonymous": "Anonymous",
+      "like": "Like",
+      "likes": "Likes",
+      "comment": "Comment",
+      "comments": "Comments",
+      "errors": {
+        "likeError": "Error liking the post. Please try again."
+      }
+    },
+    "comments": {
+      "title": "Comments",
+      "leaveComment": "Leave a Comment",
+      "placeholder": "Write your comment here...",
+      "beKind": "Be kind and respectful.",
+      "publishing": "Publishing...",
+      "publish": "Post Comment",
+      "joinConversation": "Want to join the conversation?",
+      "loginToComment": "Log in to Comment",
+      "quickAndEasy": "It's quick and easy. We'd love to hear your thoughts!",
+      "anonymous": "Anonymous",
+      "editComment": "Edit comment",
+      "deleteComment": "Delete comment",
+      "posting": "Posting comment...",
+      "postSuccess": "Comment posted successfully",
+      "postError": "Error posting comment",
+      "updating": "Updating comment...",
+      "updateSuccess": "Comment updated successfully",
+      "updateError": "Error updating comment",
+      "deleting": "Deleting comment...",
+      "deleteSuccess": "Comment deleted successfully",
+      "deleteError": "Error deleting comment",
+      "noCommentsYet": "No comments yet. Be the first!",
+      "delete": {
+        "confirmTitle": "Are you absolutely sure?",
+        "confirmMessage": "This action cannot be undone. This will permanently delete your comment.",
+        "confirm": "Yes, delete comment"
+      }
+    },
+    "shareYourStory": "Share Your Story",
+    "inspirationMessage": "Your journey can inspire and help others on their path to resilience",
+    "createStory": "Create Your Story",
+    "shareExperience": "Share your experience to inspire and support others in the community",
+    "words": "words",
+    "minRead": "min read",
+    "write": "Write",
+    "preview": "Preview",
+    "storyTitle": "Story Title",
+    "titlePlaceholder": "Give your story a compelling title...",
+    "yourStory": "Your Story",
+    "storyPlaceholder": "Share your journey, challenges, insights, and how you've built resilience. Be authentic and specific - your story could be exactly what someone else needs to hear today...",
+    "tags": "Tags",
+    "upToFive": "up to 5",
+    "tagPlaceholder": "Type to search or add custom tags...",
+    "add": "Add",
+    "remove": "Remove",
+    "popularTags": "Popular tags",
+    "privacySettings": "Privacy Settings",
+    "anonymousSwitch": "Anonymous switch",
+    "postAnonymously": "Post anonymously",
+    "anonymousDescription": "Your story will be shared without your name or profile information",
+    "storyPreview": "Story Preview",
+    "previewDescription": "This is how your story will appear to other community members",
+    "anonymous": "Anonymous",
+    "you": "You",
+    "justNow": "Just now",
+    "contentPreviewPlaceholder": "Your story content will appear here",
+    "publishing": "Publishing...",
+    "publishStory": "Publish Story",
+    "writingTips": "Writing Tips",
+    "tips": {
+      "beSpecific": {
+        "title": "Be specific",
+        "description": "Share concrete examples and details that others can relate to."
+      },
+      "focusOnGrowth": {
+        "title": "Focus on growth",
+        "description": "Highlight what you learned and how you've changed."
+      },
+      "beAuthentic": {
+        "title": "Be authentic",
+        "description": "Vulnerability creates connection and helps others feel less alone."
+      },
+      "includeHope": {
+        "title": "Include hope",
+        "description": "Share what gives you strength or what you'd tell someone in a similar situation."
+      }
+    },
+    "errors": {
+      "titleRequired": "Title is required",
+      "titleTooLong": "Title must be less than 100 characters",
+      "contentRequired": "Story content is required",
+      "contentTooLong": "Content must be less than 5000 characters",
+      "tagsRequired": "At least one tag is required",
+      "publishFailed": "Failed to publish your story. Please try again later."
+    },
+    "messages": {
+      "publishSuccess": "Your story has been published successfully!",
+      "publishError": "Failed to publish your story. Please try again."
+    },
+    "communityGuidelines": "Community Guidelines",
+    "yourProgress": "Your Progress",
+    "completion": "Completion",
+    "guidelines": {
+      "respectful": "Be respectful and supportive of others",
+      "privacy": "Avoid sharing personally identifiable information",
+      "personal": "Focus on your personal journey and experiences",
+      "warnings": "Include content warnings for sensitive topics",
+      "inspire": "Remember that your story can inspire and help others"
+    }
+  }
+}

@@ -1,0 +1,791 @@
+{
+  "site": {
+    "name": "Resilire",
+    "tagline": "Fortaleciendo Espíritus y Corazones"
+  },
+  "nav": {
+    "home": "Inicio",
+    "courses": "Cursos",
+    "findGroups": "Encontrar Grupos",
+    "stories": "Historias",
+    "about": "Acerca de",
+    "login": "Iniciar Sesión",
+    "profile": {
+      "dashboard": "Panel de Control",
+      "profile": "Mi Perfil",
+      "courses": "Mis Cursos",
+      "progress": "Mi Progreso",
+      "notifications": "Notificaciones",
+      "settings": "Configuración",
+      "signOut": "Cerrar Sesión",
+      "signingOut": "Cerrando sesión..."
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Tu camino hacia la resilencia emocional comienza aquí",
+      "title": "Crecer Más Fuerte",
+      "title-2": "Juntos",
+      "description": "Siéntete bendecido y empoderado mientras creces en fe y resilencia. Encuentra sabiduría del Evangelio, grupos solidarios, y convierte los desafíos en fortaleza.",
+      "startJourney": "Comenzar Tu Jornada",
+      "findSupport": "Encuentra Tu Grupo",
+      "element1": {
+        "title": "Lecciones Basadas en la Fe",
+        "description": "Aprende resilencia emocional a través de cursos inspirados"
+      },
+      "element2": {
+        "title": "Comunidad Basada en la Fe",
+        "description": "Conéctate con otros que comparten tus valores y experiencias"
+      },
+      "element3": {
+        "title": "Crecimiento Personal",
+        "description": "Comparte tu historia e inspira a otros en su jornada"
+      }
+    },
+    "features": {
+      "badge": "Por Qué Elegirnos",
+      "title": "Construido para Tu",
+      "titleHighlight": "Jornada Emocional",
+      "description": "Nuestra plataforma combina técnicas respaldadas por la ciencia con apoyo comunitario para ayudarte a construir resilencia duradera.",
+      "feature1": {
+        "title": "Cursos Diseñados por Expertos",
+        "description": "Aprende de psicólogos y expertos en resilencia a través de lecciones pequeñas y prácticas.",
+        "cta": "Explorar cursos"
+      },
+      "feature2": {
+        "title": "Apoyo Comunitario",
+        "description": "Conéctate con otros en jornadas similares a través de grupos locales y comunidades en línea.",
+        "cta": "Encuentra tu tribu"
+      },
+      "feature3": {
+        "title": "Crecimiento Personal",
+        "description": "Rastrea tu progreso y celebra los hitos en tu jornada hacia la resilencia emocional.",
+        "cta": "Comenzar a crecer"
+      }
+    },
+    "howItWorks": {
+      "badge": "Cómo Funciona",
+      "title": "Tu Jornada en",
+      "titleHighlight": "3 Pasos Simples",
+      "subtitle": "Un enfoque centrado en Cristo para construir resilencia, juntos.",
+      "step1": {
+        "title": "Estudiar Lecciones Oficiales",
+        "description": "Trabaja a través de cursos cortos e inspirados de La Iglesia de Jesucristo de los Santos de los Últimos Días que enseñan resilencia emocional arraigada en principios del Evangelio.",
+        "cta": "Ver Cursos"
+      },
+      "step2": {
+        "title": "Conectar con Otros",
+        "description": "Encuentra un barrio o rama local, o únete a un grupo en línea, para compartir experiencias, edificarse mutuamente, y crecer en fe juntos.",
+        "cta": "Encontrar Grupos"
+      },
+      "step3": {
+        "title": "Compartir Tu Historia",
+        "description": "Anima a otros compartiendo cómo tu fe y la comunidad te han ayudado a superar desafíos. Anónimo o abierto—tu historia importa.",
+        "cta": "Leer y Compartir"
+      }
+    },
+    "transformationStories": {
+      "title": "Historias de Resilencia",
+      "title-2": "Historias Reales, Real",
+      "title-3": "Transformación",
+      "subtitle": "Escucha de hermanos miembros y amigos cómo los principios del Evangelio los fortalecieron en tiempos difíciles.",
+      "testimonial1": {
+        "quote": "Perder mi trabajo fue desgarrador. Estudiar las lecciones de resilencia SUD me dio esperanza y herramientas prácticas para manejar mi ansiedad. Mi fe nunca ha sido más fuerte.",
+        "author": "Michael J.",
+        "category": "Transición Profesional"
+      },
+      "testimonial2": {
+        "quote": "Durante mi divorcio, el apoyo del barrio que encontré aquí se convirtió en mi roca. Saber que otros oraban por mí y compartían sus historias elevó mi espíritu diariamente.",
+        "author": "Sarah R.",
+        "category": "Transición de Vida"
+      },
+      "testimonial3": {
+        "quote": "Luché con ansiedad durante años. Estos cursos, junto con mis testimonios del amor del Salvador, me ayudaron a encontrar paz duradera y confianza.",
+        "author": "David T.",
+        "category": "Manejo de Ansiedad"
+      }
+    },
+    "featuredCourses": {
+      "title": "Cursos SUD Destacados",
+      "subtitle": "Lecciones inspiradas de la Iglesia para construir tu resilencia emocional.",
+      "course1": {
+        "title": "Fundamentos de Resilencia Espiritual",
+        "description": "Un curso oficial de la Iglesia sobre principios del Evangelio que fortalecen tu corazón y mente.",
+        "duration": "4 lecciones • 45 min",
+        "cta": "Comenzar"
+      },
+      "course2": {
+        "title": "Abrazar el Cambio con Fe",
+        "description": "Aprende enseñanzas SUD y estrategias prácticas para navegar las transiciones de la vida con confianza en el Señor.",
+        "duration": "5 lecciones • 60 min",
+        "cta": "Comenzar"
+      },
+      "course3": {
+        "title": "Construir una Red de Apoyo en el Barrio",
+        "description": "Orientación oficial sobre crear conexiones centradas en Cristo que te eleven y sostengan.",
+        "duration": "3 lecciones • 30 min",
+        "cta": "Comenzar"
+      },
+      "exploreCta": "Explorar Todos los Cursos"
+    },
+    "communityStories": {
+      "title": "Testimonios de la Comunidad",
+      "subtitle": "Relatos verdaderos de fe, esperanza y resilencia de nuestros miembros y amigos.",
+      "story1": {
+        "title": "Fortaleza Después de la Pérdida",
+        "tag": "Pérdida",
+        "posted": "Publicado el 23 de mayo de 2025",
+        "comments": "12 comentarios",
+        "excerpt": "Cuando perdí mi trabajo, me apoyé en los cursos basados en el Evangelio y las oraciones del barrio. Encontré paz y un renovado sentido de propósito...",
+        "helpful": "45 personas encontraron esto útil",
+        "cta": "Leer Más"
+      },
+      "story2": {
+        "title": "Pequeños Pasos en Fe",
+        "tag": "Ansiedad",
+        "posted": "Publicado el 19 de mayo de 2025",
+        "comments": "8 comentarios",
+        "excerpt": "Tomé un paso inspirado cada día, aplicando principios del curso de Fundamentos y confiando en la oración. Con el tiempo, mi ansiedad disminuyó significativamente...",
+        "helpful": "32 personas encontraron esto útil",
+        "cta": "Leer Más"
+      },
+      "readAllCta": "Leer Todas las Historias"
+    },
+    "cta": {
+      "title": "Únete a Nosotros en Construir Resilencia",
+      "description": "Regístrate gratis para acceder a cursos oficiales de la Iglesia, conectar con tu barrio, y compartir tu historia de fe.",
+      "createAccount": "Crear Cuenta Gratuita",
+      "exploreCourses": "Explorar Cursos"
+    }
+  },
+  "footer": {
+    "links": {
+      "courses": "Cursos",
+      "findGroups": "Encontrar Grupos",
+      "stories": "Historias",
+      "about": "Acerca de",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio"
+    },
+    "copyright": "Todos los derechos reservados.",
+    "churchNotice": "El contenido del curso es proporcionado por y es propiedad intelectual de La Iglesia de Jesucristo de los Santos de los Últimos Días.",
+    "educationalNotice": "Proyecto educativo para GESCI110: Sustentando la Vida Humana - Universidad Brigham Young-Idaho",
+    "platformBy": "Plataforma por"
+  },
+  "language": {
+    "en": "Inglés",
+    "es": "Español",
+    "qu": "Runa Simi",
+    "ay": "Aymar Aru",
+    "selectLanguage": "Seleccionar Idioma",
+    "current": "Actual"
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización",
+    "introduction": {
+      "title": "Introducción",
+      "content": "Respetamos tu privacidad y estamos comprometidos a proteger tus datos personales. Esta política de privacidad explica cómo recolectamos, usamos y protegemos tu información cuando usas nuestra plataforma de resilencia emocional."
+    },
+    "educationalProject": {
+      "title": "Información del Proyecto Educativo",
+      "content": "Esta plataforma es un proyecto educativo desarrollado como parte del curso GESCI110: Sustentando la Vida Humana en la Universidad Brigham Young - Idaho (BYUI). Este proyecto es creado con propósitos académicos y para demostrar la aplicación práctica de conceptos del curso en resilencia emocional y bienestar humano.",
+      "points": {
+        "course": "Curso: GESCI110 - Sustentando la Vida Humana",
+        "institution": "Institución: Universidad Brigham Young - Idaho (BYUI)",
+        "purpose": "Propósito: Demostración educativa y proyecto de aprendizaje",
+        "academic": "Este es un proyecto académico y no una plataforma comercial"
+      }
+    },
+    "contentAttribution": {
+      "title": "Atribución de Contenido y Fuente",
+      "content": "El contenido educativo, cursos y materiales proporcionados en esta plataforma se derivan y están basados en la propiedad intelectual de La Iglesia de Jesucristo de los Santos de los Últimos Días. Específicamente:",
+      "point1": "Todo el contenido del curso proviene de materiales oficiales de entrenamiento de resilencia emocional de La Iglesia de Jesucristo de los Santos de los Últimos Días",
+      "point2": "La Iglesia retiene todos los derechos de propiedad intelectual del contenido original",
+      "point3": "Esta plataforma sirve como un mecanismo de entrega y no reclama propiedad de los materiales educativos"
+    },
+    "informationCollected": {
+      "title": "Información que Recolectamos",
+      "personal": {
+        "title": "Información Personal",
+        "content": "Podemos recolectar información personal como tu nombre, dirección de correo electrónico y datos de progreso para proporcionar experiencias personalizadas y rastrear tu jornada de aprendizaje."
+      },
+      "usage": {
+        "title": "Datos de Uso",
+        "content": "Recolectamos información sobre cómo interactúas con nuestra plataforma, incluyendo páginas visitadas, tiempo gastado y progreso del curso para mejorar nuestros servicios."
+      }
+    },
+    "howWeUse": {
+      "title": "Cómo Usamos Tu Información",
+      "point1": "Para proporcionar y mantener nuestros servicios",
+      "point2": "Para personalizar tu experiencia de aprendizaje",
+      "point3": "Para comunicarnos contigo sobre tu progreso y actualizaciones de la plataforma",
+      "point4": "Para mejorar nuestra plataforma y desarrollar nuevas características"
+    },
+    "dataSharing": {
+      "title": "Compartir Datos y Terceros",
+      "content": "No vendemos, intercambiamos o alquilamos tu información personal a terceros. Podemos compartir información agregada, no identificable personalmente, para propósitos de investigación y mejora.",
+      "churchData": "Ten en cuenta que aunque usamos contenido educativo de La Iglesia de Jesucristo de los Santos de los Últimos Días, no compartimos tus datos personales con La Iglesia de Jesucristo de los Santos de los Últimos Días a menos que sea explícitamente requerido por ley."
+    },
+    "yourRights": {
+      "title": "Tus Derechos",
+      "access": "Acceder a tus datos personales",
+      "correct": "Corregir información inexacta",
+      "delete": "Solicitar eliminación de tus datos",
+      "portability": "Solicitar una copia de tus datos"
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "content": "Si tienes alguna pregunta sobre esta Política de Privacidad o nuestras prácticas de datos, por favor contáctanos en jorgechvzpon@gmail.com"
+    }
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización",
+    "acceptance": {
+      "title": "Aceptación de Términos",
+      "content": "Al acceder y usar esta plataforma de resilencia emocional, aceptas y acuerdas estar sujeto a los términos y provisiones de este acuerdo."
+    },
+    "educationalProject": {
+      "title": "Descargo de Responsabilidad del Proyecto Educativo",
+      "content": "Esta plataforma está desarrollada como un proyecto educativo para el curso GESCI110: Sustentando la Vida Humana en la Universidad Brigham Young - Idaho (BYUI).",
+      "academicPurpose": "Propósito Académico: Este proyecto sirve como una demostración práctica de conceptos del curso relacionados con resilencia emocional, bienestar humano y sistemas de apoyo comunitario.",
+      "limitations": "Limitaciones Educativas: Como proyecto académico, esta plataforma puede tener funcionalidad limitada y está destinada principalmente para demostración y propósitos de aprendizaje más que como un servicio comercial completamente operativo.",
+      "byuiInfo": "Información del Curso: GESCI110 - Sustentando la Vida Humana, Universidad Brigham Young - Idaho"
+    },
+    "intellectualProperty": {
+      "title": "Propiedad Intelectual y Atribución de Contenido",
+      "churchContent": "El contenido educativo, cursos, materiales y currículo disponible en esta plataforma se deriva y está basado en la propiedad intelectual de La Iglesia de Jesucristo de los Santos de los Últimos Días. La Iglesia retiene todos los derechos, título e interés en y del contenido original.",
+      "restrictions": {
+        "title": "Restricciones de Uso de Contenido",
+        "commercial": "No puedes usar el contenido educativo para propósitos comerciales",
+        "modification": "No puedes modificar, adaptar o crear trabajos derivados del contenido",
+        "redistribution": "No puedes redistribuir o republicar el contenido fuera de esta plataforma",
+        "attribution": "La atribución apropiada a La Iglesia de Jesucristo de los Santos de los Últimos Días debe mantenerse"
+      },
+      "platformCode": "El código de la plataforma y elementos de interfaz de usuario están desarrollados independientemente y no están afiliados con o respaldados por La Iglesia de Jesucristo de los Santos de los Últimos Días."
+    },
+    "useOfServices": {
+      "title": "Uso de Servicios",
+      "content": "Esta plataforma está destinada para educación personal en resilencia emocional y automejora. Acuerdas usar los servicios responsablemente y de acuerdo con todas las leyes aplicables.",
+      "prohibited": {
+        "title": "Usos Prohibidos",
+        "illegal": "Cualquier propósito ilegal o no autorizado",
+        "harmful": "Transmitir contenido dañino, amenazante u ofensivo",
+        "impersonate": "Hacerse pasar por otros o proporcionar información falsa",
+        "interfere": "Interferir con la funcionalidad o seguridad de la plataforma"
+      }
+    },
+    "userContent": {
+      "title": "Contenido Generado por el Usuario",
+      "responsibility": "Eres responsable de cualquier contenido que publiques o compartas en la plataforma. Garantizas que tienes el derecho de compartir dicho contenido.",
+      "license": "Al publicar contenido, nos otorgas una licencia no exclusiva para usar, modificar y mostrar tu contenido en conexión con operar la plataforma."
+    },
+    "disclaimer": {
+      "title": "Descargo de Responsabilidad",
+      "content": "La información y contenido proporcionado en esta plataforma son solo para propósitos educativos y no deben considerarse como consejo médico o psicológico profesional. Siempre consulta con profesionales calificados para preocupaciones específicas de salud mental.",
+      "churchEndorsement": "Esta plataforma no está oficialmente respaldada por o afiliada con La Iglesia de Jesucristo de los Santos de los Últimos Días, a pesar de usar sus materiales educativos como contenido fuente."
+    },
+    "limitation": {
+      "title": "Limitación de Responsabilidad",
+      "content": "No seremos responsables de ningún daño indirecto, incidental, especial, consecuente o punitivo resultante de tu uso de la plataforma o cualquier contenido en ella."
+    },
+    "termination": {
+      "title": "Terminación",
+      "content": "Nos reservamos el derecho de terminar o suspender tu acceso a la plataforma en cualquier momento, sin aviso previo, por conducta que creemos viola estos Términos de Servicio."
+    },
+    "changes": {
+      "title": "Cambios a los Términos",
+      "content": "Nos reservamos el derecho de modificar estos términos en cualquier momento. Los cambios serán efectivos cuando se publiquen en la plataforma. Tu uso continuado constituye aceptación de los términos modificados."
+    },
+    "contact": {
+      "title": "Información de Contacto",
+      "content": "Para preguntas sobre estos Términos de Servicio, por favor contáctanos en jorgechvzpon@gmail.com"
+    }
+  },
+  "auth": {
+    "login": {
+      "registrationSuccess": {
+        "title": "¡Registro Exitoso!",
+        "message": "Tu cuenta ha sido creada. Ahora puedes iniciar sesión con tus credenciales."
+      },
+      "welcome": {
+        "title": "Bienvenido de Vuelta a Tu",
+        "subtitle": "Jornada de Resilencia",
+        "description": "Continúa construyendo fortaleza emocional y conectándote con una comunidad que entiende tu camino hacia el bienestar."
+      },
+      "stats": {
+        "members": "Miembros Activos",
+        "courses": "Cursos de Expertos",
+        "success": "Tasa de Éxito"
+      },
+      "form": {
+        "title": "Iniciar Sesión",
+        "description": "Sumérgete de nuevo en tu jornada de resilencia con nosotros",
+        "email": {
+          "label": "Dirección de Correo Electrónico",
+          "placeholder": "Ingresa tu correo electrónico",
+          "required": "El correo electrónico es requerido",
+          "invalid": "Dirección de correo electrónico inválida"
+        },
+        "password": {
+          "label": "Contraseña",
+          "placeholder": "Ingresa tu contraseña",
+          "required": "La contraseña es requerida",
+          "minLength": "La contraseña debe tener al menos 6 caracteres"
+        },
+        "rememberMe": "Recordarme",
+        "forgotPassword": "¿Olvidaste tu contraseña?",
+        "signIn": "Iniciar Sesión",
+        "signingIn": "Iniciando sesión..."
+      },
+      "newToResilire": "¿Nuevo en Resilire?",
+      "noAccount": "¿No tienes una cuenta?",
+      "createAccount": "Crea tu cuenta gratuita",
+      "errors": {
+        "unexpected": "Ocurrió un error inesperado. Por favor intenta de nuevo.",
+        "failed": "El inicio de sesión falló.",
+        "credentials": "El inicio de sesión falló. Por favor verifica tus credenciales."
+      },
+      "success": {
+        "title": "¡Bienvenido de vuelta!",
+        "message": "Has iniciado sesión exitosamente en tu cuenta."
+      }
+    },
+    "register": {
+      "welcome": {
+        "title": "Únete a nuestra comunidad",
+        "subtitle": "Comienza tu camino",
+        "description": "Crea una cuenta para seguir tu camino de resiliencia emocional, conectar con otros y acceder a recursos personalizados."
+      },
+      "form": {
+        "title": "Crear Cuenta",
+        "description": "Completa tus datos para comenzar",
+        "email": {
+          "label": "Correo electrónico",
+          "placeholder": "Ingresa tu correo electrónico",
+          "required": "El correo electrónico es obligatorio",
+          "invalid": "Por favor, introduce un correo electrónico válido"
+        },
+        "firstName": {
+          "label": "Nombre",
+          "placeholder": "Ingresa tu nombre",
+          "required": "El nombre es obligatorio"
+        },
+        "lastName": {
+          "label": "Apellido",
+          "placeholder": "Ingresa tu apellido",
+          "required": "El apellido es obligatorio"
+        },
+        "password": {
+          "label": "Contraseña",
+          "placeholder": "Crea una contraseña segura",
+          "required": "La contraseña es obligatoria",
+          "minLength": "La contraseña debe tener al menos 8 caracteres",
+          "pattern": "La contraseña debe incluir mayúsculas, minúsculas, números y un carácter especial"
+        },
+        "confirmPassword": {
+          "label": "Confirmar Contraseña",
+          "placeholder": "Confirma tu contraseña",
+          "required": "Por favor, confirma tu contraseña",
+          "match": "Las contraseñas no coinciden"
+        },
+        "registering": "Creando cuenta...",
+        "createAccount": "Crear Cuenta"
+      },
+      "alreadyRegistered": "¿Ya estás registrado?",
+      "haveAccount": "¿Ya tienes una cuenta?",
+      "signIn": "Iniciar sesión",
+      "errors": {
+        "unexpected": "Ocurrió un error inesperado",
+        "failed": "El registro falló. Por favor, inténtalo de nuevo.",
+        "emailTaken": "El correo electrónico ya está en uso"
+      },
+      "success": {
+        "title": "¡Registro exitoso!",
+        "message": "Ahora puedes iniciar sesión con tus credenciales."
+      }
+    }
+  },
+  "courses": {
+    "title": "Cursos de Resilencia Emocional",
+    "description": "Explora nuestros cursos diseñados para ayudarte a construir resilencia emocional y espiritual.",
+    "start": "Comenzar curso",
+    "continue": "Continuar curso",
+    "enrolled": "Matriculado",
+    "lessons": "lecciones",
+    "minutes": "minutos",
+    "noDescription": "No hay descripción disponible.",
+    "loading": "Cargando curso...",
+    "notFound": "Curso no encontrado",
+    "notFoundDesc": "El curso que estás buscando no existe o puede haber sido movido.",
+    "browseAll": "Explorar todos los cursos",
+    "enrollmentRequired": "Necesitas matricularte en este curso para acceder al contenido.",
+    "enroll": "Matricularme ahora",
+    "complete": "completado",
+    "lesson": "Lección",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "tabs": {
+      "content": "Contenido",
+      "notes": "Notas",
+      "discussion": "Discusión"
+    },
+    "videoContent": "Contenido de video",
+    "videoPlaceholder": "Aquí se mostraría el video de la lección.",
+    "lessonContent": "Contenido de la lección",
+    "contentPlaceholder": "Aquí se mostraría el contenido de la lección.",
+    "understanding": "Comprendiendo",
+    "lessonExplores": "Esta lección explora los conceptos clave de",
+    "andApplication": "y cómo se aplican a tu vida diaria. Aprenderás estrategias prácticas que puedes implementar inmediatamente para construir tu resiliencia emocional.",
+    "keyTakeaways": "Puntos clave",
+    "takeaway1": "Comprender los principios fundamentales",
+    "takeaway2": "Técnicas prácticas que puedes aplicar en tu vida diaria",
+    "takeaway3": "Desafíos comunes y cómo superarlos",
+    "takeaway4": "Construir hábitos sostenibles para la resiliencia a largo plazo",
+    "notesDesc": "Toma notas mientras avanzas por la lección. Tus notas son privadas y te ayudarán a recordar puntos clave.",
+    "notesPlaceholder": "Escribe tus notas aquí...",
+    "discussionDesc": "Únete a la discusión con otros estudiantes. Comparte tus ideas y preguntas sobre esta lección.",
+    "discussionPlaceholder": "Aquí se mostraría el foro de discusión, permitiendo a los estudiantes interactuar entre sí.",
+    "previousLesson": "Lección anterior",
+    "nextLesson": "Siguiente lección",
+    "markComplete": "Marcar como completada",
+    "backToAll": "Volver a todos los cursos",
+    "findGroups": "Encontrar grupos de apoyo relacionados",
+    "myNotes": "Mis Notas",
+    "newNote": "Nueva Nota",
+    "noNotes": "Aún no hay notas",
+    "createNote": "Crear una nota",
+    "noteTitle": "Título de la nota",
+    "lastEdited": "Última edición",
+    "selectNote": "Selecciona una nota de la lista o crea una nueva",
+    "notes": "notas",
+    "notesCount": "{{count}} notas",
+    "notesCount_one": "{{count}} nota",
+    "notesCount_other": "{{count}} notas",
+    "lessonLabel": "Lección",
+    "newNoteButton": "Nueva Nota",
+    "searchNotesPlaceholder": "Buscar notas...",
+    "noteTitlePlaceholder": "Título de la Nota",
+    "noNotesYet": "Aún No Hay Notas",
+    "noNotesDescription": "Aún no has creado ninguna nota para esta lección. ¡Haz clic en el botón de arriba para crear la primera!",
+    "createFirstNoteButton": "Crea Tu Primera Nota",
+    "untitledNote": "Nota Sin Título",
+    "noteCreated": "Nota creada con éxito",
+    "noteUpdated": "Nota actualizada con éxito",
+    "noteDeleted": "Nota eliminada con éxito",
+    "errorCreatingNote": "Error al crear la nota",
+    "errorUpdatingNote": "Error al actualizar la nota",
+    "errorDeletingNote": "Error al eliminar la nota",
+    "errorMissingInfo": "Falta información requerida",
+    "errorMissingInfoOnDelete": "Falta información necesaria para eliminar la nota",
+    "noNotesFound": "Nota no encontrada",
+    "tryDifferentSearch": "La nota que estás buscando no existe o ha sido eliminada.",
+    "previousVideo": "Video anterior",
+    "nextVideo": "Siguiente video",
+    "videoCounter": "Video {{current}} de {{total}}",
+    "videoPlaylist": "Lista de videos"
+  },
+  "state": {
+    "enrollmentRequired": "Inscripción Requerida",
+    "enrollmentMessage": "Únete a este curso para acceder a todos los materiales y seguir tu progreso durante tu aprendizaje.",
+    "accessMaterials": "Acceso Completo",
+    "accessDescription": "Obtén acceso completo a todos los materiales del curso",
+    "trackProgress": "Seguimiento de Progreso",
+    "progressDescription": "Monitorea tu camino de aprendizaje",
+    "earnCertificate": "Obtén un Certificado",
+    "certificateDescription": "Completa el curso para obtener tu certificado",
+    "enroll": "Inscribirse Ahora",
+    "enrolling": "Inscribiéndose...",
+    "enrollSuccess": "Inscripción Exitosa!, ahora tienes acceso completo a este curso.",
+    "enrollError": "Error al inscribirse en el curso. Por favor, inténtalo de nuevo más tarde."
+  },
+  "common": {
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "cancel": "Cancelar",
+    "loading": "Cargando...",
+    "updatedLabel": "Actualizado",
+    "deleteConfirmPrompt": "¿Estás seguro de que quieres eliminar esta nota? Esta acción no se puede deshacer.",
+    "loading_description": "Por favor, espera mientras cargamos los datos.",
+    "error": "Error",
+    "error_description": "Oops!, Ocurrió un error. Por favor, inténtalo de nuevo más tarde.",
+    "backToStories": "Volver a Historias",
+    "characters": "caracteres"
+  },
+  "discussions": {
+    "loading": "Cargando discusiones...",
+    "error": "Error al cargar las discusiones",
+    "forumTitle": "Foro de Discusión del Curso",
+    "forumDescription": "Conecta con otros estudiantes, haz preguntas y comparte ideas sobre esta lección.",
+    "newThreadTitle": "Iniciar un Nuevo Tema",
+    "newThreadDescription": "Haz una pregunta, comparte una idea o inicia una conversación sobre esta lección",
+    "threadTitleLabel": "Título del Tema",
+    "threadTitlePlaceholder": "¿De qué te gustaría hablar?",
+    "messageLabel": "Tu Mensaje",
+    "messagePlaceholder": "Comparte tus pensamientos, preguntas o ideas...",
+    "creating": "Creando...",
+    "createThread": "Crear Tema",
+    "noRepliesYet": "Aún no hay respuestas",
+    "reply": "Responder",
+    "replies": "respuestas",
+    "replyTo": "Responder a",
+    "replyPlaceholder": "Comparte tus ideas o responde...",
+    "posting": "Publicando...",
+    "postReply": "Publicar Respuesta",
+    "forumGuidelines": "Normas del Foro",
+    "guidelines": {
+      "respectful": "Sé respetuoso y apoya a todos los estudiantes",
+      "constructive": "Comparte ideas constructivas y haz preguntas reflexivas",
+      "relevant": "Mantén las discusiones relevantes al contenido del curso",
+      "organized": "Usa la función de respuesta para mantener conversaciones organizadas",
+      "report": "Reporta contenido inapropiado para ayudar a mantener un espacio seguro"
+    },
+    "helpful": "Útil",
+    "hideReplies": "Ocultar respuestas",
+    "view": "Ver",
+    "viewSingleAnswer": "respuesta",
+    "report": "Reportar",
+    "loadingReplies": "Cargando respuestas...",
+    "errorLoadingReplies": "Error al cargar respuestas"
+  },
+  "groups": {
+    "pageTitle": {
+      "badge": "Encuentra Tu Comunidad",
+      "title": "Grupos de Apoyo Cerca de Ti",
+      "subtitle": "Conéctate con grupos locales de resiliencia en tu vecindario o únete a sesiones virtuales desde cualquier lugar. Encuentra tu tribu y fortalécete junto a otros.",
+      "disclaimer": "Nota: Los grupos mostrados son ficticios y se presentan solo con fines ilustrativos. Los grupos reales se agregarán pronto."
+    },
+    "search": {
+      "placeholder": "Busca por ubicación, nombre del grupo, área de enfoque o facilitador...",
+      "filters": "Filtros Rápidos",
+      "meetingType": "Tipo de Reunión",
+      "focusArea": "Área de Enfoque",
+      "selectFocusArea": "Selecciona área de enfoque"
+    },
+    "results": {
+      "groupsFound": "Grupo Encontrado",
+      "groupsFound_plural": "Grupos Encontrados",
+      "listView": "Vista de lista",
+      "gridView": "Vista de cuadrícula",
+      "noGroups": "No se encontraron grupos",
+      "tryAdjusting": "Intenta ajustar tus criterios de búsqueda o filtros.",
+      "resetFilters": "Restablecer Filtros"
+    },
+    "meetingTypes": {
+      "all": "Todos",
+      "inPerson": "Presencial",
+      "virtual": "Virtual"
+    },
+    "map": {
+      "loading": "Cargando mapa...",
+      "locationNotSpecified": "Ubicación no especificada"
+    },
+    "card": {
+      "featured": "Grupo Destacado",
+      "viewDetails": "Ver Detalles",
+      "participants": "participantes",
+      "ledBy": "Dirigido por"
+    },
+    "callToAction": {
+      "title": "¿No ves un grupo cerca de ti?",
+      "description": "Iniciar un grupo de apoyo en tu comunidad es más fácil de lo que piensas. Proveemos recursos, capacitación y apoyo continuo para líderes comunitarios.",
+      "startGroup": "Iniciar un Grupo",
+      "leaderResources": "Recursos para Líderes"
+    },
+    "details": {
+      "tabs": {
+        "details": "Detalles",
+        "schedule": "Horario",
+        "reviews": "Reseñas",
+        "similar": "Similares"
+      },
+      "aboutGroup": "Sobre Este Grupo",
+      "noDescription": "No se proporcionó descripción.",
+      "whatToExpect": "Qué Esperar",
+      "expectItems": {
+        "discussions": "Conversaciones guiadas sobre temas clave de resiliencia.",
+        "exercises": "Ejercicios prácticos y actividades para desarrollar habilidades.",
+        "environment": "Un entorno de apoyo y confidencial para compartir.",
+        "connections": "Oportunidades para conectar con personas que enfrentan desafíos similares."
+      },
+      "focusAreas": "Áreas de Enfoque del Grupo",
+      "noFocusAreas": "No se especificaron áreas de enfoque.",
+      "meetingInfo": "Información de la Reunión",
+      "getDirections": "Obtener indicaciones",
+      "schedule": "Horario",
+      "participants": "Participantes",
+      "spotsFilled": "espacios ocupados",
+      "facilitator": "Facilitador",
+      "registrationNote": "La inscripción es gratuita y puede cancelarse en cualquier momento. Cupos limitados disponibles.",
+      "upcomingSessions": "Próximas Sesiones",
+      "sessionFull": "Sesión Llena",
+      "addToCalendar": "Agregar al Calendario",
+      "noSessions": "No hay sesiones programadas por ahora.",
+      "participantReviews": "Reseñas de Participantes",
+      "writeReview": "Escribir una Reseña",
+      "basedOnReviews": "Basado en reseñas",
+      "noReviews": "Aún no hay reseñas para este grupo.",
+      "similarGroups": "Grupos Similares que Podrían Gustarte",
+      "noSimilarGroups": "No se encontraron grupos similares en este momento.",
+      "spots": "espacios",
+      "contactFacilitator": "Contactar al Facilitador",
+      "cancelEnrollment": "Cancelar Inscripción",
+      "cancelling": "Cancelando...",
+      "register": "Registrarse en Este Grupo",
+      "registering": "Registrando..."
+    }
+  },
+  "blogs": {
+    "title": "Historias de la comunidad",
+    "subtitle": "Lee historias inspiradoras de nuestros miembros y comparte tu propio viaje de forma anónima.",
+    "actions": {
+      "shareStory": "Comparte Tu Historia"
+    },
+    "search": {
+      "placeholder": "Buscar historias..."
+    },
+    "sort": {
+      "placeholder": "Ordenar por",
+      "newest": "Más recientes",
+      "oldest": "Más antiguas",
+      "popular": "Más populares"
+    },
+    "filter": {
+      "byTags": "Filtrar por etiquetas",
+      "selectTags": "Seleccionar etiquetas",
+      "clearFilters": "Borrar filtros"
+    },
+    "card": {
+      "posted": "Publicado",
+      "readMore": "Leer Más"
+    },
+    "share": {
+      "action": "Compartir",
+      "copied": "¡Copiado!",
+      "shareText": "Mira esta historia"
+    },
+    "emptyState": {
+      "title": "No se encontraron historias",
+      "description": "Intenta ajustar tus filtros o términos de búsqueda",
+      "clearFilters": "Borrar todos los filtros"
+    },
+    "post": {
+      "notFound": {
+        "title": "Historia no encontrada",
+        "message": "La historia que buscas no existe o ha sido movida.",
+        "viewAll": "Ver todas las historias"
+      },
+      "backToAll": "Volver a Todas las Historias",
+      "postedBy": "Publicado",
+      "auhtor": "por",
+      "anonymous": "Anónimo",
+      "like": "Me gusta",
+      "likes": "Me gusta",
+      "comment": "Comentario",
+      "comments": "Comentarios",
+      "errors": {
+        "likeError": "Error al dar me gusta. Inténtalo de nuevo."
+      }
+    },
+    "comments": {
+      "title": "Comentarios",
+      "leaveComment": "Deja un Comentario",
+      "placeholder": "Escribe tu comentario aquí...",
+      "beKind": "Sé amable y respetuoso.",
+      "publish": "Publicar Comentario",
+      "joinConversation": "¿Quieres unirte a la conversación?",
+      "loginToComment": "Inicia Sesión para Comentar",
+      "quickAndEasy": "Es rápido y fácil. ¡Nos encantaría escuchar tu opinión!",
+      "editComment": "Editar comentario",
+      "deleteComment": "Eliminar comentario",
+      "posting": "Publicando comentario...",
+      "postSuccess": "Comentario publicado con éxito",
+      "postError": "Error al publicar comentario",
+      "updating": "Actualizando comentario...",
+      "updateSuccess": "Comentario actualizado con éxito",
+      "updateError": "Error al actualizar comentario",
+      "deleting": "Eliminando comentario...",
+      "deleteSuccess": "Comentario eliminado con éxito",
+      "deleteError": "Error al eliminar comentario",
+      "noCommentsYet": "No hay comentarios aún. ¡Sé el primero!",
+      "delete": {
+        "confirmTitle": "¿Estás absolutamente seguro?",
+        "confirmMessage": "Esta acción no se puede deshacer. Esto eliminará permanentemente tu comentario.",
+        "confirm": "Sí, eliminar comentario"
+      }
+    },
+    "shareYourStory": "Comparte Tu Historia",
+    "inspirationMessage": "Tu viaje puede inspirar y ayudar a otros en su camino hacia la resiliencia",
+    "createStory": "Crea Tu Historia",
+    "shareExperience": "Comparte tu experiencia para inspirar y apoyar a otros en la comunidad",
+    "words": "palabras",
+    "minRead": "min de lectura",
+    "write": "Escribir",
+    "preview": "Vista previa",
+    "storyTitle": "Título de la Historia",
+    "titlePlaceholder": "Ponle un título atractivo a tu historia...",
+    "yourStory": "Tu Historia",
+    "storyPlaceholder": "Comparte tu viaje, desafíos, aprendizajes y cómo has construido resiliencia. Sé auténtico y específico: tu historia podría ser justo lo que alguien necesita leer hoy...",
+    "tags": "Etiquetas",
+    "upToFive": "hasta 5",
+    "tagPlaceholder": "Escribe para buscar o añadir etiquetas personalizadas...",
+    "add": "Añadir",
+    "remove": "Eliminar",
+    "popularTags": "Etiquetas populares",
+    "privacySettings": "Configuración de Privacidad",
+    "anonymousSwitch": "Interruptor de anonimato",
+    "postAnonymously": "Publicar anónimamente",
+    "anonymousDescription": "Tu historia se compartirá sin tu nombre ni información de perfil",
+    "storyPreview": "Vista Previa de la Historia",
+    "previewDescription": "Así se mostrará tu historia a otros miembros de la comunidad",
+    "anonymous": "Anónimo",
+    "you": "Tú",
+    "justNow": "Justo ahora",
+    "contentPreviewPlaceholder": "El contenido de tu historia aparecerá aquí",
+    "publishing": "Publicando...",
+    "publishStory": "Publicar Historia",
+    "writingTips": "Consejos de Escritura",
+    "tips": {
+      "beSpecific": {
+        "title": "Sé específico",
+        "description": "Comparte ejemplos y detalles concretos con los que otros puedan identificarse."
+      },
+      "focusOnGrowth": {
+        "title": "Enfócate en el crecimiento",
+        "description": "Destaca lo que aprendiste y cómo has cambiado."
+      },
+      "beAuthentic": {
+        "title": "Sé auténtico",
+        "description": "La vulnerabilidad genera conexión y ayuda a otros a sentirse menos solos."
+      },
+      "includeHope": {
+        "title": "Incluye esperanza",
+        "description": "Comparte lo que te da fuerza o lo que le dirías a alguien en una situación similar."
+      }
+    },
+    "errors": {
+      "titleRequired": "El título es obligatorio",
+      "titleTooLong": "El título debe tener menos de 100 caracteres",
+      "contentRequired": "El contenido de la historia es obligatorio",
+      "contentTooLong": "El contenido debe tener menos de 5000 caracteres",
+      "tagsRequired": "Se requiere al menos una etiqueta",
+      "publishFailed": "No se pudo publicar tu historia. Por favor, inténtalo más tarde."
+    },
+    "messages": {
+      "publishSuccess": "¡Tu historia se ha publicado con éxito!",
+      "publishError": "No se pudo publicar tu historia. Por favor, inténtalo de nuevo."
+    },
+    "communityGuidelines": "Reglas de la Comunidad",
+    "yourProgress": "Tu Progreso",
+    "completion": "Completado",
+    "guidelines": {
+      "respectful": "Sé respetuoso y apoya a los demás",
+      "privacy": "Evita compartir información de identificación personal",
+      "personal": "Concéntrate en tu viaje y experiencias personales",
+      "warnings": "Incluye advertencias de contenido para temas sensibles",
+      "inspire": "Recuerda que tu historia puede inspirar y ayudar a otros"
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "site": {
+    "name": "Resilire",
+    "tagline": "Animanakata Chuymanakasa Ch'amanchañ"
+  },
+  "nav": {
+    "home": "Uta",
+    "courses": "Yatiqäwinakata",
+    "findGroups": "Tantachäwinakata Thaqhañ",
+    "stories": "Arunakata",
+    "about": "Akana",
+    "login": "Mantañ",
+    "profile": {
+      "dashboard": "Apnaqiri Mesa",
+      "profile": "Nayra Perfil",
+      "courses": "Nayra Yatiqäwinakata",
+      "progress": "Nayra Nayraqat Sarañ",
+      "notifications": "Yatiyäwinakata",
+      "settings": "Apnaqäwinakata",
+      "signOut": "Mistuñ",
+      "signingOut": "Mistusaxa..."
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Chuymanakata ch'amanchañaru thakima akankiwa qallti",
+      "title": "Juk'ampi Ch'ama",
+      "title-2": "Jikisiwi",
+      "description": "Bendiciasiri ukhamaraki atipariri uka, samirixa thaqi ch'amampampisa jiltañ. Evangelio yatiñanaka, llakisiri tantachäwinakata jikxatasa, jan walt'äwinakata ch'amaru jaljayi.",
+      "startJourney": "Sarañama Qalltañ",
+      "findSupport": "Tantachäwima Jikxatañ",
+      "element1": {
+        "title": "Samiri Uñstayiri Yatiqäwinakata",
+        "description": "Chuymanakata ch'amanchañ yatiñ inspirayasiri yatiqäwinakampi"
+      },
+      "element2": {
+        "title": "Samiri Uñstayiri Ayllu",
+        "description": "Maynit maynikama tuqt'äwinakata pachpa chanirisa ukampi experiencianakampi"
+      },
+      "element3": {
+        "title": "Sapaki Jiltañ",
+        "description": "Arunima uñt'añasa maynirinakaru saräwipanampi ch'amanchañ"
+      }
+    },
+    "features": {
+      "badge": "Kunatsa Ajlliñätati",
+      "title": "Lurasiri Jumpa",
+      "titleHighlight": "Chuymana Saräwipata",
+      "description": "Plataformajumaxa cienciampi chiqachatayiri técnicanakata ayllu yanaptayimpi mayjiñasa, wiñaypataki ch'amanchañataki yanaptäm.",
+      "feature1": {
+        "title": "Yatirinakataki Lurasiri Yatiqäwinakata",
+        "description": "Psicólogonakatxa ch'amanchañ yatirinakatxa yatiñañ jisk'i lurayiri yatiqäwinakampi.",
+        "cta": "Yatiqäwinakata uñjañ"
+      },
+      "feature2": {
+        "title": "Ayllu Yanaptañ",
+        "description": "Maynit maynikama kikipa saräwinakampi tantachäwinakampi internetanxa ayllunakampixa.",
+        "cta": "Aylluma jikxatañ"
+      },
+      "feature3": {
+        "title": "Sapaki Jiltañ",
+        "description": "Nayraqat sarasaxa uñjañasa ukhamaraki chuymanakata ch'amanchañaru sarasäwimampi jach'a luräwinakaru kusisiñ.",
+        "cta": "Jiltañ qalltañ"
+      }
+    },
+    "howItWorks": {
+      "badge": "Kunjamsa Irnaqañ",
+      "title": "Saräwima",
+      "titleHighlight": "3 Jaña Saräwinakampi",
+      "subtitle": "Cristompi qhathanayatiri purapa ch'amanchañ lurayañataki, mayachäwixa.",
+      "step1": {
+        "title": "Oficial Yatiqäwinakata Estudiyañ",
+        "description": "La Iglesia de Jesucristo de los Santos de los Últimos Días satakataki jisk'i inspirayasiri yatiqäwinakampi irnaqañ, Evangelio kamachinakampi sartayiri chuymanakata ch'amanchañ yatichiri.",
+        "cta": "Yatiqäwinakata Uñjañ"
+      },
+      "step2": {
+        "title": "Maynit Mayninamama Tuqt'añ",
+        "description": "Mä marki barrio jan ukaxa rama thaqhañ, jan ukaxa internetanxa tantachäwimaruw purañ, experiencianakaru chanachasiñataki, mayachäsaña jiltañataki, samirixa jiltañataki.",
+        "cta": "Tantachäwinakata Thaqhañ"
+      },
+      "step3": {
+        "title": "Arunima Chanachañ",
+        "description": "Mayniruru ch'amanchañ kunjama samirimaxa ayllujamakixa jan walt'äwinakata atipiñaru yanaptasatanxa arusiñasa. Sutichatampi jan ukaxa jist'aratampi—arunimjama chaniyuwa.",
+        "cta": "Ullañasa ukhamaraki Chanachañ"
+      }
+    },
+    "transformationStories": {
+      "title": "Ch'amanchañ Arunakata",
+      "title-2": "Chiqapa Arunakata, Chiqapa",
+      "title-3": "Jaljañ",
+      "subtitle": "Jiliri paninakatxa amigonakatakaxa istañ kunjama Evangelio kamachinakapa jan walt'äwi pachampi ch'amacharasatanxa.",
+      "testimonial1": {
+        "quote": "Irnaqäwi chhaqhayañaxa chuymana nanayaraki. SUD ch'amanchañ yatiqäwinakata yatiñaxa suyt'añampi ukhamaraki llakiy apnaqañanxa yanaptañ herramientanakampi churistu. Samirinajaxa janiraki juk'ampi ch'ama ukata.",
+        "author": "Michael J.",
+        "category": "Irnaqäwi Jaljaña"
+      },
+      "testimonial2": {
+        "quote": "Divorcionajaxa ukhama, barriopa yanaptayapaxa akanxa jikxatata qalaru jaktayiriwa. Maynirinakapa nayataki mayisirinakasatapata ukhamaraki arunakasatapa chanachasirinakasatapa yatiñaxa sapüru chuymanaja jithsuñchastu.",
+        "author": "Sarah R.",
+        "category": "Jakañ Jaljaña"
+      },
+      "testimonial3": {
+        "quote": "Maranakawa llakiympi ch'axwasäna. Aka yatiqäwinakata, Salvadorapa munasiñapa testimonionakampi mayjiñani, wiñaypataki thak samañampi confianzampixa jikxatañaru yanaptitu.",
+        "author": "David T.",
+        "category": "Llakiy Apnaqañ"
+      }
+    },
+    "featuredCourses": {
+      "title": "SUD Amuyt'ayiri Yatiqäwinakata",
+      "subtitle": "Iglesiamanta inspirayasiri yatiqäwinakata chuymanakata ch'amanchañataki lurayañataki.",
+      "course1": {
+        "title": "Espiritual Ch'amanchañapa Taypinkuna",
+        "description": "Iglesiapa oficial yatiñanakapa Evangelio kamachinakatamanta chuymamaxa yuyanimakaxa ch'amachatayiri.",
+        "duration": "4 yatiqäwinakata • 45 min",
+        "cta": "Qalltañ"
+      },
+      "course2": {
+        "title": "Jaljañanakaru Samirmpi Irpañ",
+        "description": "SUD yatiñanakaru yatiñañasa ukhamaraki jakañapa jaljayanakampi Taqe Kamachirimpi confianzayuq sarañataki suma luräwinakata.",
+        "duration": "5 yatiqäwinakata • 60 min",
+        "cta": "Qalltañ"
+      },
+      "course3": {
+        "title": "Barriopi Yanaptañ Red Lurañ",
+        "description": "Cristompi qhathanayatiri tuqt'äwinakata lurayañataki oficial irpiri jumataki jithsutayiri ukhamaraki ch'amachariri.",
+        "duration": "3 yatiqäwinakata • 30 min",
+        "cta": "Qalltañ"
+      },
+      "exploreCta": "Taqi Yatiqäwinakata Uñjañ"
+    },
+    "communityStories": {
+      "title": "Ayllu Testimonionakata",
+      "subtitle": "Miembronakata amigonakata samiri suyt'aña ch'amanchañ chiqapa arunakapaxa.",
+      "story1": {
+        "title": "Chhaqhayañapa Qhipana Ch'ama",
+        "tag": "Chhaqhayañ",
+        "posted": "Imañaña mayo 23, 2025",
+        "comments": "12 arusäwinakata",
+        "excerpt": "Irnaqäwi chhaqhayasaxa, Evangeliompi sarayiri yatiqäwinakatarux barriopa mayisiñapakamarux sayästa. Thak samaña ukhamaraki machaq propósito amuyumpixa jikxatäsa...",
+        "helpful": "45 jaqi akaxa yanaptiri jikxataraki",
+        "cta": "Juk'ampi Ullañ"
+      },
+      "story2": {
+        "title": "Jisk'a Saräwinakata Samirixa",
+        "tag": "Llakiy",
+        "posted": "Imañaña mayo 19, 2025",
+        "comments": "8 arusäwinakata",
+        "excerpt": "Sapüruw inspirayasiri saräwinakata luriraki, Taypi yatiqäwipa kamachinakapatxa churasaxa ukhamaraki mayisiñamararux katjirisaxa. Pachata, llakiynajax wali jisk'achastu...",
+        "helpful": "32 jaqi akaxa yanaptiri jikxataraki",
+        "cta": "Juk'ampi Ullañ"
+      },
+      "readAllCta": "Taqi Arunakata Ullañ"
+    },
+    "cta": {
+      "title": "Ch'amanchañampi Lurayañampi Nanakampi Mayachäsiñ",
+      "description": "Qullqi janiraki imañaña Iglesiapa oficial yatiñanakamarux purañataki, barriomamarux tuqt'añataki, samiri arunima chanachañatakixa.",
+      "createAccount": "Qullqi Janiraki Cuentaru Lurañ",
+      "exploreCourses": "Yatiqäwinakata Uñjañ"
+    }
+  },
+  "footer": {
+    "links": {
+      "courses": "Yatiqäwinakata",
+      "findGroups": "Tantachäwinakata Thaqhañ",
+      "stories": "Arunakata",
+      "about": "Akana",
+      "privacy": "Imataraki Política",
+      "terms": "Servicio Kamachinakara"
+    },
+    "copyright": "Taqi derechonakax qhispiyata.",
+    "churchNotice": "Curso contenido La Iglesia de Jesucristo de los Santos de los Últimos Días satanakat churiri ukhamaraki intelectual propiedadapawa.",
+    "educationalNotice": "Yatiñ proyecto GESCI110: Jaqi Jakañ Imañaña - Brigham Young Universidad-Idaho",
+    "platformBy": "Plataforma"
+  },
+  "language": {
+    "en": "Inglés",
+    "es": "Kastilla",
+    "qu": "Runa Simi",
+    "ay": "Aymar Aru",
+    "selectLanguage": "Arunakata Ajlliñ",
+    "current": "Jichha"
+  },
+  "privacy": {
+    "title": "Imataraki Política",
+    "lastUpdated": "Qhipär machaqachatäna",
+    "introduction": {
+      "title": "Nayrïri Yatiñ",
+      "content": "Imataraki yupaychayäñasa ukhamaraki sapäki yatiyäwinakamatakix qhispiyañaxa amtäwa. Aka imataraki políticaxa qhananchañ kunjamasa apthapiñäni, apnaqañäni ukhamaraki qhispiyañäni yatiyäwinakamataki chuymana ch'amanchañ plataforma apnaqisaxa."
+    },
+    "educationalProject": {
+      "title": "Yatiñ Proyecto Yatiñ",
+      "content": "Aka plataformaxa yatiñ proyectowa GESCI110: Jaqi Jakañ Imañaña yatiqañapa Brigham Young Universidad - Idaho (BYUI) ukanxa uñstayata. Aka proyectoxa yatiñ propósitompiwa luraña ukhamaraki yatiñ conceptonakapa práctico churañapa qhananchañataki chuymana ch'amanchañampi jaqi suma jakañampi.",
+      "points": {
+        "course": "Yatiqäwi: GESCI110 - Jaqi Jakañ Imañaña",
+        "institution": "Yatiñ Uta: Brigham Young Universidad - Idaho (BYUI)",
+        "purpose": "Amtäwi: Yatiñ qhananchañ ukhamaraki yatiñ proyecto",
+        "academic": "Akaxa yatiñ proyectowa janiw comercial plataforma ukakiti"
+      }
+    },
+    "contentAttribution": {
+      "title": "Contenido Churañ ukhamaraki Jalsu",
+      "content": "Yatiñ contenido, yatiqäwinakata ukhamaraki yänakaru aka plataformanxa churatanaka La Iglesia de Jesucristo de los Santos de los Últimos Días satakataki intelectual propiedadankatamanta purintaña ukhamaraki sayantaña. Específicamente:",
+      "point1": "Taqi curso contenido La Iglesia de Jesucristo de los Santos de los Últimos Días satakataki oficial chuymana ch'amanchañ yatichañ yänakankatamanta purintaña",
+      "point2": "Iglesia taqi intelectual propiedad derechonakaru original contenidopa imaña",
+      "point3": "Aka plataformaxa entrega mecanismo kunjama irnaqañ janiw yatiñ yänakanakapa propiedadanakapa reclama lurañakiti"
+    },
+    "informationCollected": {
+      "title": "Yatiyäwi Apthapiñäni",
+      "personal": {
+        "title": "Personal Yatiyäwi",
+        "content": "Personal yatiyäwiru apthapiñ atañäni sutima, correo electrónico direcciónmaru ukhamaraki nayraqat sarañ yatiyäwinakamaru kunjama personalizado experiencianataki churañataki ukhamaraki yatiñ thakhima qatiqañataki."
+      },
+      "usage": {
+        "title": "Apnaqañ Yatiyäwi",
+        "content": "Yatiyäwiru apthapiñäni kunjamsa plataformamampisa tuqt'asaxa, ukarakiw páginanatakix waturasaxa, pacha gastasaxa ukhamaraki curso nayraqat sarasaxa servicionataki alliyachañataki."
+      }
+    },
+    "howWeUse": {
+      "title": "Kunjamsa Yatiyäwinatama Apnaqañäni",
+      "point1": "Servicionataki churañataki ukhamaraki imañataki",
+      "point2": "Yatiñ experienciamataki personalizar lurañataki",
+      "point3": "Jumapmampi parlañataki nayraqat sarasatamanta ukhamaraki plataforma machaqanakamanta",
+      "point4": "Plataformajuma alliyachañataki ukhamaraki machaq lurawinataki uñstayañataki"
+    },
+    "dataSharing": {
+      "title": "Yatiyäwi Chanachañ ukhamaraki Kimsa Jaqinakata",
+      "content": "Janiw alayañäkiti, jaljayañäkiti jan ukaxa alquilañäkiti personal yatiyäwinatama kimsa jaqinataru. Mayachataki yatiyäwinatarus chanachañärakiña, janiw jaqipa sutiniraki reqt'añjama kasaxa, investigación alliyachañataki amtäwinataki.",
+      "churchData": "Amuyt'añ La Iglesia de Jesucristo de los Santos de los Últimos Días satakataki yatiñ contenido apnaqasaxa, janiw personal yatiyäwimatakix La Iglesia de Jesucristo de los Santos de los Últimos Días satanakampixa chanachañäkiti kamachiniraki sapalla kankiti."
+    },
+    "yourRights": {
+      "title": "Derecho jumanakama",
+      "access": "Personal yatiyäwimatarux purañaña",
+      "correct": "Jani chiqapa yatiyäwinakata alliyachañaña",
+      "delete": "Yatiyäwimatapa chhaqhayañatapa mayiñaña",
+      "portability": "Yatiyäwimatapa copiapa mayiñaña"
+    },
+    "contact": {
+      "title": "Parlañ",
+      "content": "Aka Imataraki Políticamanta jan ukaxa yatiyäwi lurawinakatamanta jiskt'äwimataki uñjasax, amaw jaqthapiña jorgechvzpon@gmail.com ukankiri"
+    }
+  },
+  "terms": {
+    "title": "Servicio Kamachanakata",
+    "lastUpdated": "Qhipär machaqachatäna",
+    "acceptance": {
+      "title": "Kamachanakata Katjañ",
+      "content": "Chuymana ch'amanchañ plataformaru purisaxa ukhamaraki apnaqasax, katjañäma ukhamaraki acordasañäma aka qillqatanakapa kamachinanakampi kasañataki."
+    },
+    "educationalProject": {
+      "title": "Yatiñ Proyecto Descargo",
+      "content": "Aka plataformaxa yatiñ proyecto kunjama uñstayata GESCI110: Jaqi Jakañ Imañaña yatiqañataki Brigham Young Universidad - Idaho (BYUI) ukankiri.",
+      "academicPurpose": "Yatiñ Amtäwi: Aka proyectoxa yatiñ conceptonakapa praktiko qhananchañaniw irnaqañ chuymana ch'amanchañampi, jaqi suma jakañampi ukhamaraki ayllu yanaptañ sistemanampi tuqichiri.",
+      "limitations": "Yatiñ Jarkjatäwinaka: Yatiñ proyecto kunjama, aka plataformaxa pisichiri llamkañayuni utjañaxa ukhamaraki juk'ampi qhananchañ yatiñ amtäwinakataki jikjatäni comercial servicio taqi operativo ukamantakix.",
+      "byuiInfo": "Yatiqäwi Yatiñ: GESCI110 - Jaqi Jakañ Imañaña, Brigham Young Universidad - Idaho"
+    },
+    "intellectualProperty": {
+      "title": "Intelectual Propiedad ukhamaraki Contenido Churañ",
+      "churchContent": "Yatiñ contenido, yatiqäwinakata, yänakataru ukhamaraki currículo aka plataformanxa uñjatanaka La Iglesia de Jesucristo de los Santos de los Últimos Días satakataki intelectual propiedadankatamanta purintaña ukhamaraki sayantaña. Iglesia taqi derecho, título ukhamaraki interesse original contenidop imaña.",
+      "restrictions": {
+        "title": "Contenido Apnaqañ Jarkjatäwinaka",
+        "commercial": "Janiw yatiñ contenidoru comercial amtäwit apnaqañ atañätati",
+        "modification": "Janiw contenidoru jaljayañ, adaptayañ jan ukaxa trabajos derivados satakataki lurañ atañätati",
+        "redistribution": "Janiw contenidoru aka plataformamanta mistuñiri redistribuir jan ukaxa republicar lurañ atañätati",
+        "attribution": "La Iglesia de Jesucristo de los Santos de los Últimos Días satarux suma churañ imatawi kañapaxa"
+      },
+      "platformCode": "Plataforma código ukhamaraki jaqi interfaz yänakax sapäkiw uñstayata ukhamaraki janiw La Iglesia de Jesucristo de los Santos de los Últimos Días satanakampi afiliasiri jan ukaxa respaldatakiti."
+    },
+    "useOfServices": {
+      "title": "Servicionakata Apnaqañ",
+      "content": "Aka plataformaxa sapäki chuymana ch'amanchañ yatiñataki ukhamaraki kikip alliyachañataki munata. Servicionakaru responsablemente ukhamaraki taqi aplicakir kamachinakampi acuerdo kaqp apnaqañama acordañäma.",
+      "prohibited": {
+        "title": "Jarkjatiri Apnaqañanaka",
+        "illegal": "Kuna sapäki ilegal jan ukaxa jani autorizasiri amtäwi",
+        "harmful": "Jan walt'iri, amenazaq jan ukaxa ofensivo contenidoru apayañ",
+        "impersonate": "Maynirinakaru uñtasiyañ jan ukaxa k'ari yatiyäwinakata churañ",
+        "interfere": "Plataformapa llamkañapampi jan ukaxa seguridad ukanx ch'eqañ"
+      }
+    },
+    "userContent": {
+      "title": "Jaqi Luratana Contenido",
+      "responsibility": "Kuna contenidopasa plataformanx churasaxatamanta jan ukaxa chanachasaxatamanta responsable jiwasaxa. Uka contenidoru chanachañ derechoma utjañatapa garantizañäma.",
+      "license": "Contenidoru churasax, jani sapäkinkir licenciaru churañäni contenidoma apnaqañataki, jaljayañataki ukhamaraki uñt'ayañataki plataforma apnaqañampi mayani kaqp."
+    },
+    "disclaimer": {
+      "title": "Descargo",
+      "content": "Aka plataformanx churiri yatiyäwi contenidopasa yatiñ amtäwinakanak kisa janiw ampiri jan ukaxa psicológico profesional consejo kunjama uñjatatak kañakiti. Sapakama específico chuymana k'umara llakiyataki califcasiri profesionalnakapampi consulta lurañaña.",
+      "churchEndorsement": "Aka plataformaxa janiw oficialmente La Iglesia de Jesucristo de los Santos de los Últimos Días satakataki respaldatakiti jan ukaxa afiliasitakiti, yatiñ yänakapataki jalsu contenido kunjama apnaqasanakaw."
+    },
+    "limitation": {
+      "title": "Responsabilidad Jarkjatäwi",
+      "content": "Janiw kuna indirecto, incidental, especial, consecuente jan ukaxa punitivo jan walt'äwinakaru plataforma apnaqasatamanta jan ukaxa kunakuna contenido ukankatamanta purintir responsable kañäkiti."
+    },
+    "termination": {
+      "title": "Tukuyañ",
+      "content": "Kuna pachapis plataformaru puriñamataki tukuyañ jan ukaxa jarkjatañ atawi imaña, nayrïri yatiyañ jani utjasaxa, aka Servicio Kamachanakata jarkjayiri sasaxa amuyasiñan lurañarayku."
+    },
+    "changes": {
+      "title": "Kamachanakapa Jaljañanaka",
+      "content": "Kuna pachapis aka kamachanakatarux jaljaña atawi imaña. Jaljañanakaxa plataformanx churasaxa ukax efecto utjañakax. Sarasaxa apnaqasaxa jaljasiri kamachanakapa katjañapa tukuñapa."
+    },
+    "contact": {
+      "title": "Parlañ Yatiñ",
+      "content": "Aka Servicio Kamachanakatamanta jiskt'äwinakataki, amaw jaqthapiña jorgechvzpon@gmail.com ukankiri"
+    }
+  },
+  "auth": {
+    "login": {
+      "welcome": {
+        "title": "Jumaru Kutt'ayañ Munata",
+        "subtitle": "Ch'amanchañ Saräwirux",
+        "description": "Chuymana ch'ama lurañ sarasaxa ukhamaraki saräwimatarux saririmataki reqt'ir ayllump tuqt'añaña."
+      },
+      "stats": {
+        "members": "Irnaqir Miembronakata",
+        "courses": "Yatir Yatiqäwinakata",
+        "success": "Suma Lurañ Tasa"
+      },
+      "form": {
+        "title": "Mantañ",
+        "description": "Ch'amanchañ saräwimaru kutt'asaxa nanakamp mayani",
+        "email": {
+          "label": "Correo Electrónico Direcciön",
+          "placeholder": "Correo electrónicoma churañaña",
+          "required": "Correo electrónico wakisi",
+          "invalid": "Jani chiqapa correo electrónico dirección"
+        },
+        "password": {
+          "label": "Mantañ Aru",
+          "placeholder": "Mantañ aruma churañaña",
+          "required": "Mantañ aru wakisi",
+          "minLength": "Mantañ aru 6 qillqanakata jan ukaxa juk'ampi kañapaxa"
+        },
+        "rememberMe": "Amtayiriway",
+        "forgotPassword": "¿Mantañ aruma armt'asitati?",
+        "signIn": "Mantañ",
+        "signingIn": "Mantasa..."
+      },
+      "newToResilire": "¿Resiliren machaqati?",
+      "noAccount": "¿Jani cuentayukatati?",
+      "createAccount": "Qullqi jani imañ cuentama lurañaña",
+      "errors": {
+        "unexpected": "Jani suyiri pantañ utjistu. Amaw kuti lurañaña.",
+        "failed": "Mantañax janiw allkiti.",
+        "credentials": "Mantañax janiw allkiti. Amaw credencialnakama uñjañaña."
+      },
+      "success": {
+        "title": "¡Kutt'ayañ munata!",
+        "message": "Suma cuentamatarux mantasitawa."
+      }
+    }
+  }
+}

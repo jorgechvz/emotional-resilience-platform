@@ -1,0 +1,352 @@
+{
+  "site": {
+    "name": "Resilire",
+    "tagline": "Animakunata Sonqokunatapas Kallpanchay"
+  },
+  "nav": {
+    "home": "Wasi",
+    "courses": "Yachaykunata",
+    "findGroups": "Tantanakuykunata Maskay",
+    "stories": "Willaykunata",
+    "about": "Kaymanña",
+    "login": "Yaykuy",
+    "profile": {
+      "dashboard": "Kamachiy Tabla",
+      "profile": "Ñuqapa Perfil",
+      "courses": "Ñuqapa Yachaykunata",
+      "progress": "Ñuqapa Ñawpaqman Puriy",
+      "notifications": "Willaykunata",
+      "settings": "Churaykunata",
+      "signOut": "Lluqsiy",
+      "signingOut": "Lluqsispa..."
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Sunqu kallpanchayninman puriyki kaypi qallarikun",
+      "title": "Aswan Sinchi",
+      "title-2": "Wiñay",
+      "description": "Bendicionasqa hinallataq atiparisqa kaspa, iñiypi kallpaypi wiñay. Evangelio yachayta, llakikuypi yanapakuq tantanakuykunata tarispa, sasachakuykunata kallpaman tikray.",
+      "startJourney": "Puriykita Qallarichiy",
+      "findSupport": "Tantanakuyniykita Tariy",
+      "element1": {
+        "title": "Iñiyman Sayasqa Yachaykunata",
+        "description": "Sunqu kallpanchayninkunata yachay inspirasqa yachaykunawan"
+      },
+      "element2": {
+        "title": "Iñiyman Sayasqa Ayllu",
+        "description": "Hukkunawan tinkunakuy chanin experienciakunata rakisqaykin"
+      },
+      "element3": {
+        "title": "Sapan Wiñay",
+        "description": "Willayniykita willaspa hukkunata puriyninkupi kallpanchay"
+      }
+    },
+    "features": {
+      "badge": "Imarayku Akllakunayki",
+      "title": "Ruwasqa Qampa",
+      "titleHighlight": "Sunqu Puriypaq",
+      "description": "Plataformaykupa cienciawan tupasqa técnicakunata ayllu yanapaywan huñuspa, wiñaypaq kallpanchayta ruwanaykipaq yanapasunki.",
+      "feature1": {
+        "title": "Yachaqkunapa Ruwasqan Yachaykunata",
+        "description": "Psicólogokunamanta kallpanchay yachaqkunamanta yachay uchuy ruwanayoq yachaykunawan.",
+        "cta": "Yachaykunata qhaway"
+      },
+      "feature2": {
+        "title": "Ayllu Yanapay",
+        "description": "Hukkunawan rikch'akuq puriykuna kikinpi tantanakuykunawan internetpipas aylluwanpas.",
+        "cta": "Aylluykita tariy"
+      },
+      "feature3": {
+        "title": "Sapan Wiñay",
+        "description": "Ñawpaqman purisqaykita qhaway hinaspa sunqu kallpanchayniykiman purisqaykipi hatun ruwaykunata raymichay.",
+        "cta": "Wiñayta qallarichiy"
+      }
+    },
+    "howItWorks": {
+      "badge": "Imayna Llamkay",
+      "title": "Puriyki",
+      "titleHighlight": "3 Facil Puriykunapi",
+      "subtitle": "Cristopi qhatusqa puriy kallpanchayta ruwanapaq, kuska.",
+      "step1": {
+        "title": "Oficialpa Yachaykunata Estudiy",
+        "description": "La Iglesia de Jesucristo de los Santos de los Últimos Días nisqapa uchuy inspirasqa yachaykunawan llamkay, Evangelio kamachiykunapi sapichisqa sunqu kallpanchayta yachachimuq.",
+        "cta": "Yachaykunata Qhaway"
+      },
+      "step2": {
+        "title": "Hukkunawan Tinkunakuy",
+        "description": "Huk llaqtapi barrio icha rama maskay, utaq internetpi tantanakuyman chayay, experienciakunata rakipakunaykipaq, kuska wiñaypaq, iñiypi wiñaypaq.",
+        "cta": "Tantanakuykunata Maskay"
+      },
+      "step3": {
+        "title": "Willayniykita Rakiy",
+        "description": "Hukkunata kallpanchay imayna iñiyniyki ayllupas sasachakuykunata atipanaykipaq yanapakusqankuta willaspa. Sutisuq utaq kichaqpas—willayniyki chaniyoq.",
+        "cta": "Ñawinchay hinaspa Rakiy"
+      }
+    },
+    "transformationStories": {
+      "title": "Kallpanchay Willaykunata",
+      "title-2": "Cheqaq Willaykunata, Cheqaq",
+      "title-3": "Tikray",
+      "subtitle": "Wauqe panakunamanta amigokunamantapas uyariy imayna Evangelio kamachiykunapa sasachay pachapi sinchichasqankuta.",
+      "testimonial1": {
+        "quote": "Llamkayniyta chinkachiy sonqoyta nanachirqan. SUD kallpanchay yachaykunata yachay suyakuyta hinaspa llakikuy kamachiypi yanapakuq herramientakunata qorqan. Iñiyniymi manaña aswan sinchi karqan.",
+        "author": "Michael J.",
+        "category": "Llamkay Tikray"
+      },
+      "testimonial2": {
+        "quote": "Divorcioymi kaptiy, barriopa yanapayninku kaypi tarisqa rumiman tukurqan. Hukkunapa ñuqapaq mañakusqankuta hinaspa willaykunankuta rakisqankuta yachay sapakama animayta pikcharichirqan.",
+        "author": "Sarah R.",
+        "category": "Kawsay Tikray"
+      },
+      "testimonial3": {
+        "quote": "Watakunata llakikuywan maqanakurqani. Kay yachaykunata, Salvadorpa kuyayninpa testimonioykuna kuskapi, wiñaypaq thak samayta confianzatapas tariyta yanapawasqaku.",
+        "author": "David T.",
+        "category": "Llakikuy Kamachiy"
+      }
+    },
+    "featuredCourses": {
+      "title": "SUD Astawankunata Yachaykunata",
+      "subtitle": "Iglesiamanta inspirasqa yachaykunata sunqu kallpanchayniykita ruwanapaq.",
+      "course1": {
+        "title": "Espiritual Kallpanchaypa Teqsinkuna",
+        "description": "Iglesiapa oficial yachayninku Evangelio kamachiykunamanta sonqoykita yuyayniykitapas kallpachamuq.",
+        "duration": "4 yachaykunata • 45 min",
+        "cta": "Qallarichiy"
+      },
+      "course2": {
+        "title": "Tikraykunata Iñiywan Apay",
+        "description": "SUD yachaykunata yachay hinaspa kawsaypa tikrayninkunapi Teqsiyoqwan confianzayoq purinapaq allín kamaykunata.",
+        "duration": "5 yachaykunata • 60 min",
+        "cta": "Qallarichiy"
+      },
+      "course3": {
+        "title": "Barriopi Yanapakuq Red Ruway",
+        "description": "Cristopi qhatusqa tinkunakuykunata ruwanapaq oficial pusay pikchariqniyki hinaspa sinchiqniyki.",
+        "duration": "3 yachaykunata • 30 min",
+        "cta": "Qallarichiy"
+      },
+      "exploreCta": "Llapa Yachaykunata Qhaway"
+    },
+    "communityStories": {
+      "title": "Ayllu Testimoniokunata",
+      "subtitle": "Miembroykuna amigoykuna iñiy suyakuy kallpanchay cheqaq willayninkunapi.",
+      "story1": {
+        "title": "Chinkaypa Qhepanpi Kallpa",
+        "tag": "Chinkay",
+        "posted": "Churasqa mayo 23, 2025",
+        "comments": "12 rimanakuykunata",
+        "excerpt": "Llamkayniyta chinkachiptiy, Evangeliopi sayasqa yachaykunaman barriopa mañayninkunamanpas sayarirqani. Thak samayta hinaspa musuq propósito sentimientotapas tarirqani...",
+        "helpful": "45 runakunata kay yanapakuqta tarirqanku",
+        "cta": "Astawan Ñawinchay"
+      },
+      "story2": {
+        "title": "Uchuy Puriykunata Iñiypi",
+        "tag": "Llakikuy",
+        "posted": "Churasqa mayo 19, 2025",
+        "comments": "8 rimanakuykunata",
+        "excerpt": "Sapakama inspirasqa puriykunata ruwarkani, Teqsi yachaypa kamachiyninkunata churaspa mañakuymanpas hapipakuspa. Pachata, llakikuyniymi anchata pisiyarqan...",
+        "helpful": "32 runakunata kay yanapakuqta tarirqanku",
+        "cta": "Astawan Ñawinchay"
+      },
+      "readAllCta": "Llapa Willaykunata Ñawinchay"
+    },
+    "cta": {
+      "title": "Kallpanchaypi Ruwayman Qanchiswan Huñunakuy",
+      "description": "Qolqe manayoq qillqakuy Iglesiapa oficial yachayninkunaman chayanaykipaq, barrioykiwan tinkukunaykipaq, iñiy willayniykitapas rakiykipaq.",
+      "createAccount": "Qolqe Manayoq Cuentata Ruway",
+      "exploreCourses": "Yachaykunata Qhaway"
+    }
+  },
+  "footer": {
+    "links": {
+      "courses": "Yachaykunata",
+      "findGroups": "Tantanakuykunata Maskay",
+      "stories": "Willaykunata",
+      "about": "Kaymanña",
+      "privacy": "Secreto Política",
+      "terms": "Servicio Kamachiykunata"
+    },
+    "copyright": "Llapa derechokunapas waqaychasqa.",
+    "churchNotice": "Curso contenido La Iglesia de Jesucristo de los Santos de los Últimos Días nisqapa qosqan hinaspa intelectual propiedadninmi.",
+    "educationalNotice": "Yachay proyecto GESCI110: Runa Kawsayta Saqillay - Brigham Young Universidad-Idaho",
+    "platformBy": "Plataforma"
+  },
+  "language": {
+    "en": "Inglés",
+    "es": "Castellano",
+    "qu": "Runa Simi",
+    "ay": "Aymar Aru",
+    "selectLanguage": "Simikunata Akllay",
+    "current": "Kunan"
+  },
+  "privacy": {
+    "title": "Secreto Política",
+    "lastUpdated": "Qhepaq musuqchasqa",
+    "introduction": {
+      "title": "Riqsichiy",
+      "content": "Secretoykita yupaychayku hinaspa sapan willaykikunata amachaypi compromisosqayku kayku. Kay secreto políticaqa t'aqwiriy imayna huñuyku, llamkachiyku hinaspa amachayku willaykikunata sunqu kallpanchay plataformaykuta llamkachisqaykipi."
+    },
+    "educationalProject": {
+      "title": "Yachay Proyecto Willay",
+      "content": "Kay plataformaqa yachay proyectoq GESCI110: Runa Kawsayta Saqillay yachaypaq Brigham Young Universidad - Idaho (BYUI) kaqpi wiñachisqa. Kay proyectoqa yachay propósitowanmi rurasqa hinaspa yachay conceptokunapa práctico churayninkunata rikuchinapaq sunqu kallpanchaypi runa allin kawsaypi.",
+      "points": {
+        "course": "Yachay: GESCI110 - Runa Kawsayta Saqillay",
+        "institution": "Yachay Wasi: Brigham Young Universidad - Idaho (BYUI)",
+        "purpose": "Propósito: Yachay rikhuchiy hinaspa yachay proyecto",
+        "academic": "Kayqa yachay proyectoqa manataq comercial plataforma"
+      }
+    },
+    "contentAttribution": {
+      "title": "Contenido Atribución hinaspa Pukyu",
+      "content": "Yachay contenido, yachaykunata hinaspa materialkunata kay plataformapi qosqa La Iglesia de Jesucristo de los Santos de los Últimos Días nisqapa intelectual propiedadninmanta purimuq hinaspa sayasqa. Específicamente:",
+      "point1": "Llapa curso contenido La Iglesia de Jesucristo de los Santos de los Últimos Días nisqapa oficial sunqu kallpanchay yachachiy materialninkunamanta purimun",
+      "point2": "Iglesia llapa intelectual propiedad derechonkunata original contenidopa waqaychan",
+      "point3": "Kay plataformaqa entrega mecanismo hina servin manataq yachay materialkunapa propiedadninkunata reclamanchu"
+    },
+    "informationCollected": {
+      "title": "Willay Huñuyku",
+      "personal": {
+        "title": "Personal Willay",
+        "content": "Personal willayta huñuyta ushayku sutiyniykiman, correo electrónico direcciónman hinaspa ñawpaqman puriy willaykunaman hina personalizado experienciakunata qunaypaq hinaspa yachay puriykita qatipanaykipaq."
+      },
+      "usage": {
+        "title": "Llamkay Willay",
+        "content": "Willayta huñuyku imayna plataformaykuwan tinkunakusqaykimanta, chaymi paginakunata watukusqayki, pachata gastasqayki hinaspa curso ñawpaqman purisqayki servicioykuna allinchaypaq."
+      }
+    },
+    "howWeUse": {
+      "title": "Imayna Willayniykita Llamkachiykiku",
+      "point1": "Servicioykuna qunaypaq hinaspa saqilaypaq",
+      "point2": "Yachay experienciaykita personalizar ruwanapaq",
+      "point3": "Qamwan rimanakuypaq ñawpaqman purisqaykimanta hinaspa plataforma musuqchaykunamanta",
+      "point4": "Plataformaykuta allinchaypaq hinaspa musuq ruwaykunata wiñachiypaq"
+    },
+    "dataSharing": {
+      "title": "Willay Rakiy hinaspa Kimsa Runakunata",
+      "content": "Mana rantiykuchu, kambiaykuchu utaq alquilaykuchu personal willayniykita kimsa runakunaman. Huñusqa willaykunata rakirqaykumanqa, mana runapa sutinwan reqsiq kasqanta, investigación allinchaypaq propósitopaq.",
+      "churchData": "Yuyariy La Iglesia de Jesucristo de los Santos de los Últimos Días nisqapa yachay contenidonta llamkachisqaykuqa, mana personal willayniykita La Iglesia de Jesucristo de los Santos de los Últimos Días nisqawan rakiykuchu kamachiywan sapalla kaqtinqa."
+    },
+    "yourRights": {
+      "title": "Derechoykikunata",
+      "access": "Personal willayniykiman chayay",
+      "correct": "Mana chanin willaykunata alllichay",
+      "delete": "Willayniykipa chinkachisqanta mañakuy",
+      "portability": "Willayniykipa copianta mañakuy"
+    },
+    "contact": {
+      "title": "Rimanakuy",
+      "content": "Sichus kay Secreto Políticamanta utaq willay ruwayniykumanta tapuyniykikuna kanqa, ama hina kaspa rimanakuy jorgechvzpon@gmail.com kaqpi"
+    }
+  },
+  "terms": {
+    "title": "Servicio Kamachikuna",
+    "lastUpdated": "Qhepaq musuqchasqa",
+    "acceptance": {
+      "title": "Kamachikuna Chaskiy",
+      "content": "Sunqu kallpanchay plataforma kaqman chayanqayki hinaspa llamkachisqaykiqa, chaskinkiqa hinaspa acuerdasqankiqa kay qillqasqapa kamachiyninkunapi kasanaykipaq."
+    },
+    "educationalProject": {
+      "title": "Yachay Proyecto Disculpa",
+      "content": "Kay plataformaqa yachay proyecto hina wiñachisqa GESCI110: Runa Kawsayta Saqillay yachaypaq Brigham Young Universidad - Idaho (BYUI) kaqpi.",
+      "academicPurpose": "Yachay Propósito: Kay proyectoqa yachay conceptokunapa praktiko rikhuchiynintan sirvin sunqu kallpanchaywan, runa allin kawsaywan hinaspa ayllu yanapay sistemakawan tupaq.",
+      "limitations": "Yachay Limitacionkuna: Yachay proyecto kaqtin, kay plataformaqa pisiyasqa llamkaynayoq kankumanqa hinaspa aswanta rikuchiy yachay propósitokuna nisqapaq tarikunqa comercial servicio hunt'asqa operativo kasqanmantaqa.",
+      "byuiInfo": "Yachay Willay: GESCI110 - Runa Kawsayta Saqillay, Brigham Young Universidad - Idaho"
+    },
+    "intellectualProperty": {
+      "title": "Intelectual Propiedad hinaspa Contenido Atribución",
+      "churchContent": "Yachay contenido, yachaykunata, materialkunata hinaspa currículum kay plataformapi rikukuq La Iglesia de Jesucristo de los Santos de los Últimos Días nisqapa intelectual propiedadninmanta purimuq hinaspa sayasqan. Iglesia llapa derecho, título hinaspa interés original contenidopi waqaychan.",
+      "restrictions": {
+        "title": "Contenido Llamkay Harkaykuna",
+        "commercial": "Mana yachay contenidota comercial propósitopaq llamkachiyta atinkichu",
+        "modification": "Mana contenidota tikrayta, adaptayta utaq trabajos derivados nisqakunata ruwayta atinkichu",
+        "redistribution": "Mana contenidota kay plataformamanta lluqsispa redistribuir utaq republicar ruwayta atinkichu",
+        "attribution": "La Iglesia de Jesucristo de los Santos de los Últimos Días nisqaman allin atribución waqaychasqa kanantiqa"
+      },
+      "platformCode": "Plataforma códigon hinaspa runa interfaz elementokuna sapallanta wiñachisqa hinaspa mana La Iglesia de Jesucristo de los Santos de los Últimos Días nisqawan afiliasqa utaq respaldosqa."
+    },
+    "useOfServices": {
+      "title": "Serviciokunapa Llamkachiy",
+      "content": "Kay plataformaqa sapan sunqu kallpanchay yachaypaq hinaspa kikin allinchaypaq munasqa. Serviciokunata responsablemente hinaspa llapa aplicakuq kamachiykunawan acuerdo kaqpi llamkachisanki acuerdanki.",
+      "prohibited": {
+        "title": "Harkasqa Llamkachiykuna",
+        "illegal": "Ima sapalla ilegal utaq mana autorizasqa propósito",
+        "harmful": "Dañino, amenazaq utaq ofensivo contenidota apachiy",
+        "impersonate": "Hukkunaman rikchakuy utaq llulla willaykunata quy",
+        "interfere": "Plataformapa llamkayninwan utaq seguridad kaqwan chaqruy"
+      }
+    },
+    "userContent": {
+      "title": "Runa Rurasqa Contenido",
+      "responsibility": "Ima contenidopas plataformapi churasqaykimanta utaq rakisqaykimanta responsable kanki. Chay contenidota rakiy derechoykiyoq kasqaykita garantizanki.",
+      "license": "Contenidota churaspayki, mana sapallayoq licenciata qowayku contenidoykita llamkachiypaq, tikraypaq hinaspa rikuchiypaq plataformata llamkachiywanqa tinki kaqpi."
+    },
+    "disclaimer": {
+      "title": "Disculpa",
+      "content": "Kay plataformapi qosqa willay contenidopas yachay propósitokuna kamallañataq mana hampiq utaq psicológico profesional consejoman hina qhawarisqa kananchu. Sapakama específico mental salud llakikuypaq calificado profesionalkunawan consulta ruway.",
+      "churchEndorsement": "Kay plataformaqa mana oficialmente La Iglesia de Jesucristo de los Santos de los Últimos Días nisqapa respaldosqan utaq afiliasqan, yachay materialninkunata pukyu contenido hina llamkachisqanman chayantin."
+    },
+    "limitation": {
+      "title": "Responsabilidad Limitación",
+      "content": "Mana ima indirecto, incidental, especial, consecuente utaq punitivo dañokuna plataforma llamkachisqaykimanta utaq imakuna contenido chaykaqmanta purimuqta responsable kasaqkuchu."
+    },
+    "termination": {
+      "title": "Tukuchiy",
+      "content": "Ima pachapas plataformaman chayayniykita tukuchiyta utaq harkayta atiykuta waqaychayku, ñawpaq willana manayoq, kay Servicio Kamachiykunata harkasqa nispa iñisqayku ruwayrayku."
+    },
+    "changes": {
+      "title": "Kamachiykunapa Tikraykuna",
+      "content": "Ima pachapis kay kamachiykunata tikray atiykuta waqaychayku. Tikraykunaqa plataformapi churasqa kaqtinqa efectivo kanqa. Purispa llamkachisqayki tikrasqa kamachiykunapa chaskiyninta tukun."
+    },
+    "contact": {
+      "title": "Rimanakuy Willay",
+      "content": "Kay Servicio Kamachiykunamanta tapuykunapaq, ama hina kaspa rimanakuy jorgechvzpon@gmail.com kaqpi"
+    }
+  },
+  "auth": {
+    "login": {
+      "welcome": {
+        "title": "Qampa Kutiy Munasqa",
+        "subtitle": "Kallpanchay Puriyman",
+        "description": "Sunqu kallpata ruway purispa hinaspa puriykiman purinaykita riqsiq aylluman tinkunakuy."
+      },
+      "stats": {
+        "members": "Llamkaq Miembrokunat",
+        "courses": "Yachaq Yachaykunata",
+        "success": "Allinkay Tasa"
+      },
+      "form": {
+        "title": "Yaykuy",
+        "description": "Kallpanchay puriykiman kutimuspa ñuqayku kuskapi",
+        "email": {
+          "label": "Correo Electrónico Dirección",
+          "placeholder": "Correo electrónicoykita churay",
+          "required": "Correo electrónico necesakun",
+          "invalid": "Mana chanin correo electrónico dirección"
+        },
+        "password": {
+          "label": "Yaykuna Rima",
+          "placeholder": "Yaykuna rimaykita churay",
+          "required": "Yaykuna rima necesakun",
+          "minLength": "Yaykuna rima 6 letrakuna utaq astawan kanantiqa"
+        },
+        "rememberMe": "Yuyariway",
+        "forgotPassword": "¿Yaykuna rimaykita qunqarqankichu?",
+        "signIn": "Yaykuy",
+        "signingIn": "Yaykuspa..."
+      },
+      "newToResilire": "¿Resilirepi musuqchu?",
+      "noAccount": "¿Mana cuentayoqchu?",
+      "createAccount": "Qolqe manayoq cuentaykita ruway",
+      "errors": {
+        "unexpected": "Mana suyasqa pantay kaptiy. Ama hina kaspa yapamanta ruwakuy.",
+        "failed": "Yaykuyqa mana alliychu.",
+        "credentials": "Yaykuyqa mana alliychu. Ama hina kaspa credencialniykikunata qhaway."
+      },
+      "success": {
+        "title": "¡Kutiy munasqa!",
+        "message": "Allinta cuentaykiman yaykurqanki."
+      }
+    }
+  }
+}
