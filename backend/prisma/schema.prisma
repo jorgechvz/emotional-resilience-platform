@@ -1,0 +1,274 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id         String    @id @default(auto()) @map("_id") @db.ObjectId
+  email      String    @unique
+  password   String
+  firstName  String?
+  lastName   String?
+  isVerified Boolean   @default(false)
+  role       Role      @default(USER)
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+  lastLogin  DateTime?
+  sessions   Session[]
+
+  enrollments       Enrollment[]
+  chapterProgress   ChapterProgress[]
+  chapterNotes      ChapterNote[]
+  discussions       Discussion[]
+  discussionReplies DiscussionReply[]
+  blogPosts         BlogPost[]
+  blogComments      BlogComment[]
+
+  resilienceCircleEnrollments ResilienceCircleEnrollment[] @relation("UserEnrollments")
+
+  @@map("users")
+}
+
+model Session {
+  id           String   @id @default(auto()) @map("_id") @db.ObjectId
+  refreshToken String   @unique
+  userAgent    String?
+  ipAddress    String?
+  expiresAt    DateTime
+  isValid      Boolean  @default(true)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  userId       String   @db.ObjectId
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("sessions")
+}
+
+model Course {
+  id          String  @id @default(auto()) @map("_id") @db.ObjectId
+  title       String
+  description String?
+  imageUrl    String?
+  language    String?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  chapters    Chapter[]
+  enrollments Enrollment[]
+
+  @@map("courses")
+}
+
+model Chapter {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  title       String
+  content     String
+  videoUrls   String[]
+  position    Int
+  duration    Int? // Duration in seconds
+  isPublished Boolean  @default(false)
+
+  courseId String @db.ObjectId
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  course          Course            @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  chapterProgress ChapterProgress[]
+  chapterNotes    ChapterNote[]
+  discussions     Discussion[]
+
+  @@map("chapters")
+}
+
+model Enrollment {
+  id       String @id @default(auto()) @map("_id") @db.ObjectId
+  userId   String @db.ObjectId
+  courseId String @db.ObjectId
+
+  enrolledAt  DateTime  @default(now())
+  completedAt DateTime?
+
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  course Course @relation(fields: [courseId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, courseId])
+  @@map("enrollments")
+}
+
+model ChapterProgress {
+  id        String @id @default(auto()) @map("_id") @db.ObjectId
+  userId    String @db.ObjectId
+  chapterId String @db.ObjectId
+
+  isCompleted Boolean   @default(false)
+  completedAt DateTime?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  user    User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  chapter Chapter @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, chapterId])
+  @@map("chapter_progress")
+}
+
+model ChapterNote {
+  id        String @id @default(auto()) @map("_id") @db.ObjectId
+  userId    String @db.ObjectId
+  chapterId String @db.ObjectId
+
+  title   String?
+  content String
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  user    User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  chapter Chapter @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+
+  @@map("chapter_notes")
+}
+
+model Discussion {
+  id        String @id @default(auto()) @map("_id") @db.ObjectId
+  userId    String @db.ObjectId
+  chapterId String @db.ObjectId
+
+  title   String
+  content String
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  user    User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  chapter Chapter           @relation(fields: [chapterId], references: [id], onDelete: Cascade)
+  replies DiscussionReply[]
+
+  @@map("discussions")
+}
+
+model DiscussionReply {
+  id            String  @id @default(auto()) @map("_id") @db.ObjectId
+  userId        String  @db.ObjectId
+  discussionId  String  @db.ObjectId
+  parentReplyId String? @db.ObjectId
+
+  content String
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  user         User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  discussion   Discussion        @relation(fields: [discussionId], references: [id], onDelete: Cascade)
+  parentReply  DiscussionReply?  @relation("ReplyToReply", fields: [parentReplyId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  childReplies DiscussionReply[] @relation("ReplyToReply")
+
+  @@map("discussion_replies")
+}
+
+model BlogPost {
+  id        String   @id @default(auto()) @map("_id") @db.ObjectId
+  userId    String   @db.ObjectId
+  title     String
+  content   String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  author    String?
+  likes     Int      @default(0)
+  tags      String[]
+
+  user     User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  comments BlogComment[]
+
+  @@map("blog_posts")
+}
+
+model BlogComment {
+  id         String   @id @default(auto()) @map("_id") @db.ObjectId
+  blogPostId String   @db.ObjectId
+  userId     String   @db.ObjectId
+  content    String
+  author     String?
+  likes      Int      @default(0)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  user     User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  blogPost BlogPost @relation(fields: [blogPostId], references: [id], onDelete: Cascade)
+
+  @@map("blog_comments")
+}
+
+model ResilienceCircle {
+  id              String     @id @default(auto()) @map("_id") @db.ObjectId
+  name            String
+  location        String
+  address         String
+  dateDescription String
+  timeDescription String
+  type            CircleType @default(IN_PERSON)
+  focus           String
+  facilitator     String
+  participants    Int        @default(0)
+  maxParticipants Int
+  rating          Float?     @default(0.0)
+  distance        Float?
+  description     String
+  tags            String[]
+  latitude        Float?
+  longitude       Float?
+  imageUrl        String?    @map("image_url")
+  featured        Boolean    @default(false)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  enrolledUsers ResilienceCircleEnrollment[] @relation("CircleEnrollments")
+
+  @@map("resilience_circles")
+}
+
+model ResilienceCircleEnrollment {
+  id         String           @id @default(auto()) @map("_id") @db.ObjectId
+  userId     String           @db.ObjectId
+  circleId   String           @db.ObjectId
+  enrolledAt DateTime         @default(now())
+  status     EnrollmentStatus @default(CONFIRMED)
+
+  user   User             @relation("UserEnrollments", fields: [userId], references: [id], onDelete: Cascade)
+  circle ResilienceCircle @relation("CircleEnrollments", fields: [circleId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, circleId])
+  @@map("resilience_circle_enrollments")
+}
+
+enum CircleType {
+  IN_PERSON
+  VIRTUAL
+  HYBRID
+}
+
+enum EnrollmentStatus {
+  PENDING
+  CONFIRMED
+  CANCELLED
+  ATTENDED
+}
+
+enum Role {
+  USER
+  ADMIN
+}
