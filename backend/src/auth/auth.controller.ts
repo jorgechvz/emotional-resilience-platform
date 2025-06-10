@@ -34,7 +34,6 @@ import { ConfigService } from '@nestjs/config';
 
 export const ACCESS_TOKEN_COOKIE_NAME = 'accessToken';
 export const REFRESH_TOKEN_COOKIE_NAME = 'refreshToken';
-export const COOKIE_DOMAIN = process.env.CORS_ORIGIN || 'http://localhost:5173'; // Default to localhost if not set
 
 @ApiTags('Authentication')
 @Controller('auth')
@@ -64,7 +63,7 @@ export class AuthController {
     res.cookie(ACCESS_TOKEN_COOKIE_NAME, accessToken, {
       httpOnly: true,
       secure: nodeEnv === 'production',
-      sameSite: 'lax',
+      sameSite: 'none',
       maxAge: accessTokenMaxAge,
       path: '/',
     });
@@ -72,7 +71,7 @@ export class AuthController {
     res.cookie(REFRESH_TOKEN_COOKIE_NAME, refreshToken, {
       httpOnly: true,
       secure: nodeEnv === 'production',
-      sameSite: 'lax',
+      sameSite: 'none',
       maxAge: refreshTokenMaxAge,
       path: '/auth/refresh',
     });
